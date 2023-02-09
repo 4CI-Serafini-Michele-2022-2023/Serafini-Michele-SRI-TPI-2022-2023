@@ -1,0 +1,2 @@
+nome:ens33;ind_ipv4['192.168.136.128'];netmask['255.255.255.0'];mac address00:0c:29:a0:66:e5;ind_ipv6['fe80::20c:29ff:fea0:66e5'];2022-11-23 19:37:18.360547;linux;debian
+nome:lo;ind_ipv4['127.0.0.1'];netmask['255.0.0.0'];mac addressNone;ind_ipv6['::1'];2022-11-23 19:37:18.360547;linux;debian

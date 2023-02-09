@@ -1,0 +1,355 @@
+Percorso;Processo;Pid
+C:\Windows\System32\smss.exe; smss.exe; 624
+C:\Windows\System32\csrss.exe; csrss.exe; 648
+C:\Windows\System32\wininit.exe; wininit.exe; 656
+C:\Windows\System32\svchost.exe; svchost.exe; 680
+C:\Windows\System32\csrss.exe; csrss.exe; 844
+C:\Windows\System32\services.exe; services.exe; 924
+C:\Windows\System32\winlogon.exe; winlogon.exe; 960
+C:\Windows\System32\lsass.exe; lsass.exe; 988
+C:\Windows\System32\svchost.exe; svchost.exe; 1140
+C:\Windows\System32\fontdrvhost.exe; fontdrvhost.exe; 1172
+C:\Windows\System32\fontdrvhost.exe; fontdrvhost.exe; 1176
+C:\Windows\System32\svchost.exe; svchost.exe; 1264
+C:\Windows\System32\svchost.exe; svchost.exe; 1312
+C:\Windows\System32\svchost.exe; svchost.exe; 1416
+C:\Windows\System32\dwm.exe; dwm.exe; 1424
+C:\Windows\System32\svchost.exe; svchost.exe; 1500
+C:\Windows\System32\svchost.exe; svchost.exe; 1564
+C:\Windows\System32\svchost.exe; svchost.exe; 1572
+C:\Windows\System32\svchost.exe; svchost.exe; 1580
+C:\Windows\System32\svchost.exe; svchost.exe; 1644
+C:\Windows\System32\svchost.exe; svchost.exe; 1668
+C:\Windows\System32\svchost.exe; svchost.exe; 1724
+C:\Windows\System32\svchost.exe; svchost.exe; 1744
+C:\Windows\System32\svchost.exe; svchost.exe; 1752
+C:\Windows\System32\svchost.exe; svchost.exe; 1784
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_f37f66cf59feb38a\IntelCpHDCPSvc.exe; IntelCpHDCPSvc.exe; 1864
+C:\Windows\System32\svchost.exe; svchost.exe; 1884
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe; SystemSettings.exe; 1928
+C:\Windows\System32\svchost.exe; svchost.exe; 1948
+C:\Windows\System32\svchost.exe; svchost.exe; 1976
+C:\Windows\System32\svchost.exe; svchost.exe; 2012
+C:\Windows\System32\svchost.exe; svchost.exe; 2076
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_f37f66cf59feb38a\IntelCpHeciSvc.exe; IntelCpHeciSvc.exe; 2124
+C:\Windows\System32\svchost.exe; svchost.exe; 2148
+C:\Windows\System32\svchost.exe; svchost.exe; 2212
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_12ed482042e0dee5\igfxCUIService.exe; igfxCUIService.exe; 2216
+C:\Windows\System32\svchost.exe; svchost.exe; 2252
+C:\Windows\System32\svchost.exe; svchost.exe; 2300
+C:\Windows\System32\SearchProtocolHost.exe; SearchProtocolHost.exe; 2368
+C:\Windows\System32\svchost.exe; svchost.exe; 2408
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\AppHelperCap.exe; AppHelperCap.exe; 2440
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\DiagsCap.exe; DiagsCap.exe; 2448
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\NetworkCap.exe; NetworkCap.exe; 2460
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\SysInfoCap.exe; SysInfoCap.exe; 2484
+C:\Windows\System32\svchost.exe; svchost.exe; 2636
+C:\Windows\System32\svchost.exe; svchost.exe; 2676
+C:\Windows\System32\svchost.exe; svchost.exe; 2684
+C:\Windows\System32\svchost.exe; svchost.exe; 2692
+C:\Windows\System32\svchost.exe; svchost.exe; 2700
+C:\Windows\System32\DriverStore\FileRepository\hpanalyticscomp.inf_amd64_16362a5f981410f1\x64\TouchpointAnalyticsClientService.exe; TouchpointAnalyticsClientService.exe; 2784
+C:\Windows\System32\svchost.exe; svchost.exe; 2884
+C:\Windows\System32\svchost.exe; svchost.exe; 2948
+C:\Windows\System32\svchost.exe; svchost.exe; 2992
+C:\Windows\System32\svchost.exe; svchost.exe; 3040
+C:\Windows\System32\svchost.exe; svchost.exe; 3076
+C:\Windows\System32\svchost.exe; svchost.exe; 3248
+C:\Windows\System32\svchost.exe; svchost.exe; 3324
+C:\Windows\System32\svchost.exe; svchost.exe; 3372
+C:\Windows\System32\svchost.exe; svchost.exe; 3460
+C:\Windows\System32\wbem\WmiPrvSE.exe; WmiPrvSE.exe; 3760
+C:\Windows\System32\wbem\unsecapp.exe; unsecapp.exe; 3848
+C:\Windows\System32\wbem\WmiPrvSE.exe; WmiPrvSE.exe; 3980
+C:\Windows\System32\svchost.exe; svchost.exe; 4064
+C:\Windows\System32\svchost.exe; svchost.exe; 4072
+C:\Windows\System32\svchost.exe; svchost.exe; 4184
+C:\Windows\System32\svchost.exe; svchost.exe; 4256
+C:\Windows\System32\svchost.exe; svchost.exe; 4264
+C:\Windows\System32\svchost.exe; svchost.exe; 4272
+C:\Windows\System32\svchost.exe; svchost.exe; 4328
+C:\Windows\System32\spoolsv.exe; spoolsv.exe; 4444
+C:\Windows\System32\svchost.exe; svchost.exe; 4592
+C:\Windows\System32\svchost.exe; svchost.exe; 4600
+C:\Windows\System32\svchost.exe; svchost.exe; 4608
+C:\Windows\System32\svchost.exe; svchost.exe; 4620
+C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_003a6d3c4c50c291\OneApp.IGCC.WinService.exe; OneApp.IGCC.WinService.exe; 4628
+C:\Windows\System32\svchost.exe; svchost.exe; 4636
+C:\Windows\System32\DriverStore\FileRepository\hpdsusoftwarecomponent.inf_amd64_61c94b8083a252da\HotkeyServiceDSU.exe; HotkeyServiceDSU.exe; 4644
+C:\Windows\System32\svchost.exe; svchost.exe; 4656
+C:\Windows\System32\SgrmBroker.exe; SgrmBroker.exe; 4664
+C:\Program Files\Veyon\veyon-service.exe; veyon-service.exe; 4688
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 4704
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe; armsvc.exe; 4716
+C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe; vmware-authd.exe; 4724
+C:\Windows\System32\SECOMN64.exe; SECOMN64.exe; 4744
+C:\Windows\SysWOW64\XtuService.exe; XtuService.exe; 4752
+C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe; sqlwriter.exe; 4836
+C:\Windows\System32\svchost.exe; svchost.exe; 4844
+C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_c60facea9c32a6cb\RtkAudUService64.exe; RtkAudUService64.exe; 4856
+C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_b5484efd38adbe8d\jhi_service.exe; jhi_service.exe; 4884
+C:\Windows\SysWOW64\vmnat.exe; vmnat.exe; 4904
+C:\Windows\SysWOW64\vmnetdhcp.exe; vmnetdhcp.exe; 4952
+C:\Windows\System32\conhost.exe; conhost.exe; 4960
+C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe; vmware-usbarbitrator64.exe; 4984
+C:\Windows\System32\DriverStore\FileRepository\iaahcic.inf_amd64_1a5ac2e152221aaf\RstMwService.exe; RstMwService.exe; 5012
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security for Windows\avp.exe; avp.exe; 5064
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security for Windows\avpui.exe; avpui.exe; 5080
+C:\Windows\System32\svchost.exe; svchost.exe; 5184
+C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_7616b976fc6840bd\LMS.exe; LMS.exe; 5236
+C:\Windows\System32\svchost.exe; svchost.exe; 5256
+C:\Windows\System32\dasHost.exe; dasHost.exe; 5276
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 5296
+C:\Windows\System32\svchost.exe; svchost.exe; 5312
+C:\Windows\System32\svchost.exe; svchost.exe; 5352
+C:\Windows\System32\svchost.exe; svchost.exe; 5404
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 5448
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 5836
+C:\Windows\System32\svchost.exe; svchost.exe; 5960
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe; SearchApp.exe; 5980
+C:\Windows\System32\svchost.exe; svchost.exe; 6220
+C:\Windows\System32\svchost.exe; svchost.exe; 6284
+C:\Windows\System32\svchost.exe; svchost.exe; 6736
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 6752
+C:\Windows\System32\svchost.exe; svchost.exe; 6832
+C:\Windows\System32\svchost.exe; svchost.exe; 7052
+C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe; PresentationFontCache.exe; 7228
+C:\Windows\System32\svchost.exe; svchost.exe; 8024
+C:\Windows\System32\taskhostw.exe; taskhostw.exe; 8112
+C:\Windows\System32\svchost.exe; svchost.exe; 8216
+C:\Windows\System32\sihost.exe; sihost.exe; 8352
+C:\Windows\System32\MoUsoCoreWorker.exe; MoUsoCoreWorker.exe; 8408
+C:\Windows\System32\svchost.exe; svchost.exe; 8444
+C:\Windows\System32\svchost.exe; svchost.exe; 8460
+C:\Windows\System32\svchost.exe; svchost.exe; 8496
+C:\Windows\System32\svchost.exe; svchost.exe; 8936
+C:\Windows\System32\cmd.exe; cmd.exe; 9036
+C:\Windows\explorer.exe; explorer.exe; 9272
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 9284
+C:\Program Files\Microsoft Update Health Tools\uhssvc.exe; uhssvc.exe; 9288
+C:\Windows\System32\svchost.exe; svchost.exe; 9308
+C:\Windows\System32\svchost.exe; svchost.exe; 9316
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 9332
+C:\Windows\System32\ctfmon.exe; ctfmon.exe; 9388
+C:\Program Files (x86)\Kaspersky Lab\NetworkAgent\klnagent.exe; klnagent.exe; 9524
+C:\Windows\System32\svchost.exe; svchost.exe; 9660
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe; TextInputHost.exe; 9712
+C:\Windows\System32\SearchIndexer.exe; SearchIndexer.exe; 9836
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2019.19071.12548.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe; Microsoft.Photos.exe; 9984
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_12ed482042e0dee5\igfxEM.exe; igfxEM.exe; 10048
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe; StartMenuExperienceHost.exe; 10260
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 10412
+C:\Windows\System32\svchost.exe; svchost.exe; 10516
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe; SearchApp.exe; 10548
+C:\Windows\System32\SearchProtocolHost.exe; SearchProtocolHost.exe; 10580
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 10656
+C:\Windows\System32\ApplicationFrameHost.exe; ApplicationFrameHost.exe; 10684
+C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1906.55.0_x64__8wekyb3d8bbwe\Calculator.exe; Calculator.exe; 10868
+C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_c60facea9c32a6cb\RtkAudUService64.exe; RtkAudUService64.exe; 11332
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 11372
+C:\Windows\System32\SearchFilterHost.exe; SearchFilterHost.exe; 11376
+C:\Windows\System32\SecurityHealthSystray.exe; SecurityHealthSystray.exe; 11392
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 11472
+C:\Program Files\Veyon\veyon-server.exe; veyon-server.exe; 11856
+C:\Windows\System32\SecurityHealthService.exe; SecurityHealthService.exe; 11920
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 11952
+C:\Program Files\Veyon\veyon-worker.exe; veyon-worker.exe; 12000
+C:\Windows\System32\dllhost.exe; dllhost.exe; 12600
+C:\Windows\System32\svchost.exe; svchost.exe; 12624
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 12648
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 12820
+C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe; jusched.exe; 12876
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 12896
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security for Windows\avpsus.exe; avpsus.exe; 12960
+C:\Users\19538\AppData\Local\Microsoft\OneDrive\OneDrive.exe; OneDrive.exe; 13244
+C:\Windows\System32\DriverStore\FileRepository\hpdsusoftwarecomponent.inf_amd64_61c94b8083a252da\LanWlanWwanSwitchingServiceDSU.exe; LanWlanWwanSwitchingServiceDSU.exe; 13784
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 13788
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 13980
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 13984
+C:\Windows\SysWOW64\wbem\WmiPrvSE.exe; WmiPrvSE.exe; 14088
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 14204
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 14424
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 14588
+C:\Python39\python.exe; python.exe; 14976
+C:\Windows\System32\smartscreen.exe; smartscreen.exe; 15316
+C:\Windows\System32\svchost.exe; svchost.exe; 15456
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe; ShellExperienceHost.exe; 15540
+C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe; jucheck.exe; 16144
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\BridgeCommunication.exe; BridgeCommunication.exe; 16280
+C:\Windows\System32\smss.exe; smss.exe; 624
+C:\Windows\System32\csrss.exe; csrss.exe; 648
+C:\Windows\System32\wininit.exe; wininit.exe; 656
+C:\Windows\System32\svchost.exe; svchost.exe; 680
+C:\Windows\System32\csrss.exe; csrss.exe; 844
+C:\Windows\System32\services.exe; services.exe; 924
+C:\Windows\System32\winlogon.exe; winlogon.exe; 960
+C:\Windows\System32\lsass.exe; lsass.exe; 988
+C:\Windows\System32\svchost.exe; svchost.exe; 1140
+C:\Windows\System32\fontdrvhost.exe; fontdrvhost.exe; 1172
+C:\Windows\System32\fontdrvhost.exe; fontdrvhost.exe; 1176
+C:\Windows\System32\svchost.exe; svchost.exe; 1264
+C:\Windows\System32\svchost.exe; svchost.exe; 1312
+C:\Windows\System32\svchost.exe; svchost.exe; 1416
+C:\Windows\System32\dwm.exe; dwm.exe; 1424
+C:\Windows\System32\svchost.exe; svchost.exe; 1500
+C:\Windows\System32\svchost.exe; svchost.exe; 1564
+C:\Windows\System32\svchost.exe; svchost.exe; 1572
+C:\Windows\System32\svchost.exe; svchost.exe; 1580
+C:\Windows\System32\svchost.exe; svchost.exe; 1644
+C:\Windows\System32\svchost.exe; svchost.exe; 1668
+C:\Windows\System32\svchost.exe; svchost.exe; 1724
+C:\Windows\System32\svchost.exe; svchost.exe; 1744
+C:\Windows\System32\svchost.exe; svchost.exe; 1752
+C:\Windows\System32\svchost.exe; svchost.exe; 1784
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_f37f66cf59feb38a\IntelCpHDCPSvc.exe; IntelCpHDCPSvc.exe; 1864
+C:\Windows\System32\svchost.exe; svchost.exe; 1884
+C:\Windows\ImmersiveControlPanel\SystemSettings.exe; SystemSettings.exe; 1928
+C:\Windows\System32\svchost.exe; svchost.exe; 1948
+C:\Windows\System32\svchost.exe; svchost.exe; 1976
+C:\Windows\System32\svchost.exe; svchost.exe; 2012
+C:\Windows\System32\svchost.exe; svchost.exe; 2076
+C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_f37f66cf59feb38a\IntelCpHeciSvc.exe; IntelCpHeciSvc.exe; 2124
+C:\Windows\System32\svchost.exe; svchost.exe; 2148
+C:\Windows\System32\svchost.exe; svchost.exe; 2212
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_12ed482042e0dee5\igfxCUIService.exe; igfxCUIService.exe; 2216
+C:\Windows\System32\svchost.exe; svchost.exe; 2252
+C:\Windows\System32\svchost.exe; svchost.exe; 2300
+C:\Windows\System32\SearchProtocolHost.exe; SearchProtocolHost.exe; 2368
+C:\Windows\System32\svchost.exe; svchost.exe; 2408
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\AppHelperCap.exe; AppHelperCap.exe; 2440
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\DiagsCap.exe; DiagsCap.exe; 2448
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\NetworkCap.exe; NetworkCap.exe; 2460
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\SysInfoCap.exe; SysInfoCap.exe; 2484
+C:\Windows\System32\svchost.exe; svchost.exe; 2636
+C:\Windows\System32\svchost.exe; svchost.exe; 2676
+C:\Windows\System32\svchost.exe; svchost.exe; 2684
+C:\Windows\System32\svchost.exe; svchost.exe; 2692
+C:\Windows\System32\svchost.exe; svchost.exe; 2700
+C:\Windows\System32\DriverStore\FileRepository\hpanalyticscomp.inf_amd64_16362a5f981410f1\x64\TouchpointAnalyticsClientService.exe; TouchpointAnalyticsClientService.exe; 2784
+C:\Windows\System32\svchost.exe; svchost.exe; 2884
+C:\Windows\System32\svchost.exe; svchost.exe; 2948
+C:\Windows\System32\svchost.exe; svchost.exe; 2992
+C:\Windows\System32\svchost.exe; svchost.exe; 3040
+C:\Windows\System32\svchost.exe; svchost.exe; 3076
+C:\Windows\System32\svchost.exe; svchost.exe; 3248
+C:\Windows\System32\svchost.exe; svchost.exe; 3324
+C:\Windows\System32\svchost.exe; svchost.exe; 3372
+C:\Windows\System32\svchost.exe; svchost.exe; 3460
+C:\Windows\System32\wbem\WmiPrvSE.exe; WmiPrvSE.exe; 3760
+C:\Windows\System32\wbem\unsecapp.exe; unsecapp.exe; 3848
+C:\Windows\System32\wbem\WmiPrvSE.exe; WmiPrvSE.exe; 3980
+C:\Windows\System32\svchost.exe; svchost.exe; 4064
+C:\Windows\System32\svchost.exe; svchost.exe; 4072
+C:\Windows\System32\svchost.exe; svchost.exe; 4184
+C:\Windows\System32\svchost.exe; svchost.exe; 4256
+C:\Windows\System32\svchost.exe; svchost.exe; 4264
+C:\Windows\System32\svchost.exe; svchost.exe; 4272
+C:\Windows\System32\svchost.exe; svchost.exe; 4328
+C:\Windows\System32\spoolsv.exe; spoolsv.exe; 4444
+C:\Windows\System32\svchost.exe; svchost.exe; 4592
+C:\Windows\System32\svchost.exe; svchost.exe; 4600
+C:\Windows\System32\svchost.exe; svchost.exe; 4608
+C:\Windows\System32\svchost.exe; svchost.exe; 4620
+C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_003a6d3c4c50c291\OneApp.IGCC.WinService.exe; OneApp.IGCC.WinService.exe; 4628
+C:\Windows\System32\svchost.exe; svchost.exe; 4636
+C:\Windows\System32\DriverStore\FileRepository\hpdsusoftwarecomponent.inf_amd64_61c94b8083a252da\HotkeyServiceDSU.exe; HotkeyServiceDSU.exe; 4644
+C:\Windows\System32\svchost.exe; svchost.exe; 4656
+C:\Windows\System32\SgrmBroker.exe; SgrmBroker.exe; 4664
+C:\Program Files\Veyon\veyon-service.exe; veyon-service.exe; 4688
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 4704
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe; armsvc.exe; 4716
+C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe; vmware-authd.exe; 4724
+C:\Windows\System32\SECOMN64.exe; SECOMN64.exe; 4744
+C:\Windows\SysWOW64\XtuService.exe; XtuService.exe; 4752
+C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe; sqlwriter.exe; 4836
+C:\Windows\System32\svchost.exe; svchost.exe; 4844
+C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_c60facea9c32a6cb\RtkAudUService64.exe; RtkAudUService64.exe; 4856
+C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_b5484efd38adbe8d\jhi_service.exe; jhi_service.exe; 4884
+C:\Windows\SysWOW64\vmnat.exe; vmnat.exe; 4904
+C:\Windows\SysWOW64\vmnetdhcp.exe; vmnetdhcp.exe; 4952
+C:\Windows\System32\conhost.exe; conhost.exe; 4960
+C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe; vmware-usbarbitrator64.exe; 4984
+C:\Windows\System32\DriverStore\FileRepository\iaahcic.inf_amd64_1a5ac2e152221aaf\RstMwService.exe; RstMwService.exe; 5012
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security for Windows\avp.exe; avp.exe; 5064
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security for Windows\avpui.exe; avpui.exe; 5080
+C:\Windows\System32\svchost.exe; svchost.exe; 5184
+C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_7616b976fc6840bd\LMS.exe; LMS.exe; 5236
+C:\Windows\System32\svchost.exe; svchost.exe; 5256
+C:\Windows\System32\dasHost.exe; dasHost.exe; 5276
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 5296
+C:\Windows\System32\svchost.exe; svchost.exe; 5312
+C:\Windows\System32\svchost.exe; svchost.exe; 5352
+C:\Windows\System32\svchost.exe; svchost.exe; 5404
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 5448
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 5836
+C:\Windows\System32\svchost.exe; svchost.exe; 5960
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe; SearchApp.exe; 5980
+C:\Windows\System32\svchost.exe; svchost.exe; 6220
+C:\Windows\System32\svchost.exe; svchost.exe; 6284
+C:\Windows\System32\svchost.exe; svchost.exe; 6736
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 6752
+C:\Windows\System32\svchost.exe; svchost.exe; 6832
+C:\Windows\System32\svchost.exe; svchost.exe; 7052
+C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe; PresentationFontCache.exe; 7228
+C:\Windows\System32\svchost.exe; svchost.exe; 8024
+C:\Windows\System32\taskhostw.exe; taskhostw.exe; 8112
+C:\Windows\System32\svchost.exe; svchost.exe; 8216
+C:\Windows\System32\sihost.exe; sihost.exe; 8352
+C:\Windows\System32\MoUsoCoreWorker.exe; MoUsoCoreWorker.exe; 8408
+C:\Windows\System32\svchost.exe; svchost.exe; 8444
+C:\Windows\System32\svchost.exe; svchost.exe; 8460
+C:\Windows\System32\svchost.exe; svchost.exe; 8496
+C:\Windows\System32\svchost.exe; svchost.exe; 8936
+C:\Windows\System32\cmd.exe; cmd.exe; 9036
+C:\Windows\explorer.exe; explorer.exe; 9272
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 9284
+C:\Program Files\Microsoft Update Health Tools\uhssvc.exe; uhssvc.exe; 9288
+C:\Windows\System32\svchost.exe; svchost.exe; 9308
+C:\Windows\System32\svchost.exe; svchost.exe; 9316
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 9332
+C:\Windows\System32\ctfmon.exe; ctfmon.exe; 9388
+C:\Program Files (x86)\Kaspersky Lab\NetworkAgent\klnagent.exe; klnagent.exe; 9524
+C:\Windows\System32\svchost.exe; svchost.exe; 9660
+C:\Python39\python.exe; python.exe; 9696
+C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe; TextInputHost.exe; 9712
+C:\Windows\System32\SearchIndexer.exe; SearchIndexer.exe; 9836
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2019.19071.12548.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe; Microsoft.Photos.exe; 9984
+C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_12ed482042e0dee5\igfxEM.exe; igfxEM.exe; 10048
+C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe; StartMenuExperienceHost.exe; 10260
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 10412
+C:\Windows\System32\svchost.exe; svchost.exe; 10516
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe; SearchApp.exe; 10548
+C:\Windows\System32\SearchProtocolHost.exe; SearchProtocolHost.exe; 10580
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 10656
+C:\Windows\System32\ApplicationFrameHost.exe; ApplicationFrameHost.exe; 10684
+C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1906.55.0_x64__8wekyb3d8bbwe\Calculator.exe; Calculator.exe; 10868
+C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_c60facea9c32a6cb\RtkAudUService64.exe; RtkAudUService64.exe; 11332
+C:\Windows\System32\RuntimeBroker.exe; RuntimeBroker.exe; 11372
+C:\Windows\System32\SearchFilterHost.exe; SearchFilterHost.exe; 11376
+C:\Windows\System32\SecurityHealthSystray.exe; SecurityHealthSystray.exe; 11392
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 11472
+C:\Program Files\Veyon\veyon-server.exe; veyon-server.exe; 11856
+C:\Windows\System32\SecurityHealthService.exe; SecurityHealthService.exe; 11920
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 11952
+C:\Program Files\Veyon\veyon-worker.exe; veyon-worker.exe; 12000
+C:\Windows\System32\dllhost.exe; dllhost.exe; 12600
+C:\Windows\System32\svchost.exe; svchost.exe; 12624
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 12648
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 12820
+C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe; jusched.exe; 12876
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe; msedge.exe; 12896
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security for Windows\avpsus.exe; avpsus.exe; 12960
+C:\Users\19538\AppData\Local\Microsoft\OneDrive\OneDrive.exe; OneDrive.exe; 13244
+C:\Windows\System32\DriverStore\FileRepository\hpdsusoftwarecomponent.inf_amd64_61c94b8083a252da\LanWlanWwanSwitchingServiceDSU.exe; LanWlanWwanSwitchingServiceDSU.exe; 13784
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 13788
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 13980
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 13984
+C:\Windows\SysWOW64\wbem\WmiPrvSE.exe; WmiPrvSE.exe; 14088
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 14204
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 14424
+C:\Program Files\Microsoft VS Code\Code.exe; Code.exe; 14588
+C:\Windows\System32\smartscreen.exe; smartscreen.exe; 15316
+C:\Windows\System32\svchost.exe; svchost.exe; 15456
+C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe; ShellExperienceHost.exe; 15540
+C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe; jucheck.exe; 16144
+C:\Windows\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_02ea01a452126faa\x64\BridgeCommunication.exe; BridgeCommunication.exe; 16280

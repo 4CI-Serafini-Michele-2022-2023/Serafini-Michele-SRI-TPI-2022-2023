@@ -1,0 +1,1035 @@
+<?xml version="1.0"  encoding="ISO-8859-1" ?>
+<usb_devices_list>
+<item>
+<device_name>0000.0014.0000.003.000.000.000.000.000</device_name>
+<description>Apple iPhone</description>
+<device_type>Still Imaging</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>22/12/2022 12:07:32</registry_time_1>
+<registry_time_2>22/12/2022 12:07:21</registry_time_2>
+<vendorid>05ac</vendorid>
+<productid>12a8</productid>
+<firmware_revision>11.08</firmware_revision>
+<wcid></wcid>
+<usb_class>06</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>01</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix></parentid_prefix>
+<service_name>WUDFWpdMtp</service_name>
+<service_description></service_description>
+<driver_filename>WUDFRd.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>Apple Inc.</device_mfg>
+<friendly_name>Apple iPhone</friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>Apple iPhone</driver_description>
+<driver_version>10.0.22621.1</driver_version>
+<driver_infsection>MTP</driver_infsection>
+<driver_infpath>wpdmtp.inf</driver_infpath>
+<instance_id>USB\VID_05AC&amp;PID_12A8&amp;MI_00\6&amp;19d6970f&amp;0&amp;0000</instance_id>
+<capabilities>SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>0000.0014.0000.003.000.000.000.000.000</device_name>
+<description>Apple iPhone</description>
+<device_type>Still Imaging</device_type>
+<connected>Yes</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>24/01/2023 12:34:31</registry_time_1>
+<registry_time_2>05/11/2022 12:26:35</registry_time_2>
+<vendorid>05ac</vendorid>
+<productid>12a8</productid>
+<firmware_revision>12.03</firmware_revision>
+<wcid></wcid>
+<usb_class>06</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>01</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix></parentid_prefix>
+<service_name>WUDFWpdMtp</service_name>
+<service_description></service_description>
+<driver_filename>WUDFRd.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>Apple Inc.</device_mfg>
+<friendly_name>Apple iPhone</friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>Apple iPhone</driver_description>
+<driver_version>10.0.22621.1</driver_version>
+<driver_infsection>MTP</driver_infsection>
+<driver_infpath>wpdmtp.inf</driver_infpath>
+<instance_id>USB\VID_05AC&amp;PID_12A8&amp;MI_00\6&amp;3172c6c1&amp;1&amp;0000</instance_id>
+<capabilities>SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>0000.0014.0000.005.000.000.000.000.000</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>31/12/2022 14:40:45</registry_time_1>
+<registry_time_2>31/12/2022 14:40:45</registry_time_2>
+<vendorid>145f</vendorid>
+<productid>01e5</productid>
+<firmware_revision>1.10</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>01</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>7&amp;301e0b92&amp;0</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_145F&amp;PID_01E5&amp;MI_00\6&amp;1d3e5bac&amp;1&amp;0000</instance_id>
+<capabilities>SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>0000.0014.0000.005.000.000.000.000.000</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>31/12/2022 14:40:45</registry_time_1>
+<registry_time_2>31/12/2022 14:40:45</registry_time_2>
+<vendorid>145f</vendorid>
+<productid>01e5</productid>
+<firmware_revision>1.10</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>00</usb_subclass>
+<usb_protocol>00</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>7&amp;34d5229e&amp;0</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_145F&amp;PID_01E5&amp;MI_01\6&amp;1d3e5bac&amp;1&amp;0001</instance_id>
+<capabilities>SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>0000.0014.0000.006.000.000.000.000.000</device_name>
+<description>WinUsb Device</description>
+<device_type>Application Specific</device_type>
+<connected>Yes</connected>
+<safe_to_unplug>No</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>02/10/2022 14:43:08</registry_time_1>
+<registry_time_2>30/09/2022 20:46:29</registry_time_2>
+<vendorid>13d3</vendorid>
+<productid>5480</productid>
+<firmware_revision>21.03</firmware_revision>
+<wcid>WINUSB</wcid>
+<usb_class>fe</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>00</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix></parentid_prefix>
+<service_name>WINUSB</service_name>
+<service_description>@winusb.inf,%WINUSB_SvcName%;WinUsb Driver</service_description>
+<driver_filename>WinUSB.SYS</driver_filename>
+<device_class></device_class>
+<device_mfg>WinUsb Device</device_mfg>
+<friendly_name>Camera DFU Device</friendly_name>
+<power>500 mA</power>
+<usb_version>2.01</usb_version>
+<driver_description>WinUsb Device</driver_description>
+<driver_version>10.0.22621.608</driver_version>
+<driver_infsection>WINUSB.NT</driver_infsection>
+<driver_infpath>winusb.inf</driver_infpath>
+<instance_id>USB\VID_13D3&amp;PID_5480&amp;MI_02\6&amp;4deb29&amp;0&amp;0002</instance_id>
+<capabilities></capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>0000.0014.0000.006.000.000.000.000.000</device_name>
+<description>USB Video Device</description>
+<device_type>Video</device_type>
+<connected>Yes</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>20/01/2023 13:51:40</registry_time_1>
+<registry_time_2>30/09/2022 20:46:58</registry_time_2>
+<vendorid>13d3</vendorid>
+<productid>5480</productid>
+<firmware_revision>21.03</firmware_revision>
+<wcid></wcid>
+<usb_class>0e</usb_class>
+<usb_subclass>03</usb_subclass>
+<usb_protocol>00</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix></parentid_prefix>
+<service_name>usbvideo</service_name>
+<service_description>@usbvideo.inf,%USBVideo.SvcDesc%;USB Video Device (WDM)</service_description>
+<driver_filename>usbvideo.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>Microsoft</device_mfg>
+<friendly_name>HD Camera</friendly_name>
+<power>500 mA</power>
+<usb_version>2.01</usb_version>
+<driver_description>USB Video Device</driver_description>
+<driver_version>10.0.22621.608</driver_version>
+<driver_infsection>USBVideo.NT</driver_infsection>
+<driver_infpath>usbvideo.inf</driver_infpath>
+<instance_id>USB\VID_13D3&amp;PID_5480&amp;MI_00\6&amp;4deb29&amp;0&amp;0000</instance_id>
+<capabilities>Removable, SilentInstall, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>HP USB Optical Mouse</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>Yes</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>24/01/2023 12:37:19</registry_time_1>
+<registry_time_2>21/10/2022 10:48:13</registry_time_2>
+<vendorid>03f0</vendorid>
+<productid>134a</productid>
+<firmware_revision>1.00</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>02</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;1fe1f0cb&amp;0</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power>100 mA</power>
+<usb_version>2.00</usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_03F0&amp;PID_134A\5&amp;42a5d96&amp;0&amp;5</instance_id>
+<capabilities>Removable, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>iPhone</device_name>
+<description>Apple Mobile Device USB Composite Device</description>
+<device_type>Still Imaging</device_type>
+<connected>Yes</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number>0000803000112DC81408802E</serial_number>
+<registry_time_1>24/01/2023 12:34:31</registry_time_1>
+<registry_time_2>05/11/2022 12:26:35</registry_time_2>
+<vendorid>05ac</vendorid>
+<productid>12a8</productid>
+<firmware_revision>12.03</firmware_revision>
+<wcid></wcid>
+<usb_class>06</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>01</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;3172c6c1&amp;1</parentid_prefix>
+<service_name>usbccgp</service_name>
+<service_description>@usb.inf,%GenericParent.SvcDesc%;Driver principale generico USB Microsoft</service_description>
+<driver_filename>usbccgp.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>Apple, Inc.</device_mfg>
+<friendly_name>@oem31.inf,%iPhone.AppleUSB.DeviceDesc%;Apple Mobile Device USB Composite Device</friendly_name>
+<power>500 mA</power>
+<usb_version>2.00</usb_version>
+<driver_description>Apple Mobile Device USB Composite Device</driver_description>
+<driver_version>486.0.0.0</driver_version>
+<driver_infsection>AppleUSB_CCGPDriverInstall.NT</driver_infsection>
+<driver_infpath>oem31.inf</driver_infpath>
+<instance_id>USB\VID_05AC&amp;PID_12A8\0000803000112DC81408802E</instance_id>
+<capabilities>Removable, UniqueID, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0001.Hub_#0001</device_name>
+<description>USB Mass Storage Device</description>
+<device_type>Mass Storage</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number>010182cb6b42850e9ecf8a31a142e4cdc961ee6845e0cea7a192414a4a5a20e98efc00000000000000000000b2cf2a1500165e00a455810732ab73f2</serial_number>
+<registry_time_1>08/01/2023 15:25:03</registry_time_1>
+<registry_time_2>05/11/2022 12:40:30</registry_time_2>
+<vendorid>0781</vendorid>
+<productid>55a4</productid>
+<firmware_revision>1.00</firmware_revision>
+<wcid></wcid>
+<usb_class>08</usb_class>
+<usb_subclass>06</usb_subclass>
+<usb_protocol>50</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix></parentid_prefix>
+<service_name>USBSTOR</service_name>
+<service_description>@usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver</service_description>
+<driver_filename>USBSTOR.SYS</driver_filename>
+<device_class></device_class>
+<device_mfg>Compatible USB storage device</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Mass Storage Device</driver_description>
+<driver_version>10.0.22621.1</driver_version>
+<driver_infsection>USBSTOR_BULK.NT</driver_infsection>
+<driver_infpath>usbstor.inf</driver_infpath>
+<instance_id>USB\VID_0781&amp;PID_55A4\010182cb6b42850e9ecf8a31a142e4cdc961ee6845e0cea7a192414a4a5a20e98efc00000000000000000000b2cf2a1500165e00a455810732ab73f2</instance_id>
+<capabilities>Removable, UniqueID, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0003.Hub_#0001</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>18/01/2023 17:12:10</registry_time_1>
+<registry_time_2>02/10/2022 14:24:24</registry_time_2>
+<vendorid>1ea7</vendorid>
+<productid>0064</productid>
+<firmware_revision>2.00</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>02</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;2e9b1fc1&amp;1</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_1EA7&amp;PID_0064\5&amp;42a5d96&amp;0&amp;3</instance_id>
+<capabilities>Removable, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0003.Hub_#0001</device_name>
+<description>Apple Mobile Device USB Composite Device</description>
+<device_type>Still Imaging</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number>00008020001D78321E83002E</serial_number>
+<registry_time_1>22/12/2022 12:07:32</registry_time_1>
+<registry_time_2>22/12/2022 12:07:20</registry_time_2>
+<vendorid>05ac</vendorid>
+<productid>12a8</productid>
+<firmware_revision>11.08</firmware_revision>
+<wcid></wcid>
+<usb_class>06</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>01</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;19d6970f&amp;0</parentid_prefix>
+<service_name>usbccgp</service_name>
+<service_description>@usb.inf,%GenericParent.SvcDesc%;Driver principale generico USB Microsoft</service_description>
+<driver_filename>usbccgp.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>Apple, Inc.</device_mfg>
+<friendly_name>@oem31.inf,%iPhone.AppleUSB.DeviceDesc%;Apple Mobile Device USB Composite Device</friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>Apple Mobile Device USB Composite Device</driver_description>
+<driver_version>486.0.0.0</driver_version>
+<driver_infsection>AppleUSB_CCGPDriverInstall.NT</driver_infsection>
+<driver_infpath>oem31.inf</driver_infpath>
+<instance_id>USB\VID_05AC&amp;PID_12A8\00008020001D78321E83002E</instance_id>
+<capabilities>Removable, UniqueID, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0003.Hub_#0001</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>21/10/2022 10:49:43</registry_time_1>
+<registry_time_2>21/10/2022 10:49:43</registry_time_2>
+<vendorid>03f0</vendorid>
+<productid>134a</productid>
+<firmware_revision>1.00</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>02</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;591707f&amp;0</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power>100 mA</power>
+<usb_version>2.00</usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_03F0&amp;PID_134A\5&amp;42a5d96&amp;0&amp;3</instance_id>
+<capabilities>Removable, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0004.Hub_#0001</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>20/12/2022 12:04:33</registry_time_1>
+<registry_time_2>20/12/2022 11:58:02</registry_time_2>
+<vendorid>03f0</vendorid>
+<productid>134a</productid>
+<firmware_revision>1.00</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>02</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;d284026&amp;0</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power>100 mA</power>
+<usb_version>2.00</usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_03F0&amp;PID_134A\5&amp;42a5d96&amp;0&amp;4</instance_id>
+<capabilities>Removable, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0004.Hub_#0001</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>20/10/2022 19:12:45</registry_time_1>
+<registry_time_2>20/10/2022 19:12:45</registry_time_2>
+<vendorid>054c</vendorid>
+<productid>05c4</productid>
+<firmware_revision>1.00</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>00</usb_subclass>
+<usb_protocol>00</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;37e01da1&amp;1</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_054C&amp;PID_05C4\5&amp;42a5d96&amp;0&amp;4</instance_id>
+<capabilities>Removable, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0004.Hub_#0001</device_name>
+<description>TSSTcorp CDDVDW SE-208GB USB Device</description>
+<device_type>Mass Storage</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number>S16B6YMF700VS9_</serial_number>
+<registry_time_1>21/11/2022 19:11:04</registry_time_1>
+<registry_time_2>21/11/2022 19:11:04</registry_time_2>
+<vendorid>0e8d</vendorid>
+<productid>1806</productid>
+<firmware_revision>0.00</firmware_revision>
+<wcid></wcid>
+<usb_class>08</usb_class>
+<usb_subclass>02</usb_subclass>
+<usb_protocol>50</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix></parentid_prefix>
+<service_name>USBSTOR</service_name>
+<service_description>@usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver</service_description>
+<driver_filename>USBSTOR.SYS</driver_filename>
+<device_class></device_class>
+<device_mfg>Compatible USB storage device</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Mass Storage Device</driver_description>
+<driver_version>10.0.22621.1</driver_version>
+<driver_infsection>USBSTOR_BULK.NT</driver_infsection>
+<driver_infpath>usbstor.inf</driver_infpath>
+<instance_id>USB\VID_0E8D&amp;PID_1806\S16B6YMF700VS9_</instance_id>
+<capabilities>Removable, UniqueID, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0005.Hub_#0001</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>22/01/2023 17:02:31</registry_time_1>
+<registry_time_2>22/01/2023 17:02:31</registry_time_2>
+<vendorid>145f</vendorid>
+<productid>01d9</productid>
+<firmware_revision>1.01</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>02</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;231c9039&amp;0</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_145F&amp;PID_01D9\5&amp;42a5d96&amp;0&amp;5</instance_id>
+<capabilities>Removable, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0005.Hub_#0001</device_name>
+<description>USB Composite Device</description>
+<device_type>Unknown</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>31/12/2022 14:40:45</registry_time_1>
+<registry_time_2>31/12/2022 14:40:45</registry_time_2>
+<vendorid>145f</vendorid>
+<productid>01e5</productid>
+<firmware_revision>1.10</firmware_revision>
+<wcid></wcid>
+<usb_class>00</usb_class>
+<usb_subclass>00</usb_subclass>
+<usb_protocol>00</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;1d3e5bac&amp;1</parentid_prefix>
+<service_name>usbccgp</service_name>
+<service_description>@usb.inf,%GenericParent.SvcDesc%;Driver principale generico USB Microsoft</service_description>
+<driver_filename>usbccgp.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Controller host USB standard)</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Composite Device</driver_description>
+<driver_version>10.0.22621.608</driver_version>
+<driver_infsection>Composite.Dev.NT</driver_infsection>
+<driver_infpath>usb.inf</driver_infpath>
+<instance_id>USB\VID_145F&amp;PID_01E5\5&amp;42a5d96&amp;0&amp;5</instance_id>
+<capabilities>Removable, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0005.Hub_#0001</device_name>
+<description>Patriot Memory USB Device</description>
+<device_type>Mass Storage</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number>07210C405594F006</serial_number>
+<registry_time_1>17/12/2022 14:04:58</registry_time_1>
+<registry_time_2>16/12/2022 22:34:46</registry_time_2>
+<vendorid>13fe</vendorid>
+<productid>6000</productid>
+<firmware_revision>1.00</firmware_revision>
+<wcid></wcid>
+<usb_class>08</usb_class>
+<usb_subclass>06</usb_subclass>
+<usb_protocol>50</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix></parentid_prefix>
+<service_name>USBSTOR</service_name>
+<service_description>@usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver</service_description>
+<driver_filename>USBSTOR.SYS</driver_filename>
+<device_class></device_class>
+<device_mfg>Compatible USB storage device</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Mass Storage Device</driver_description>
+<driver_version>10.0.22621.1</driver_version>
+<driver_infsection>USBSTOR_BULK.NT</driver_infsection>
+<driver_infpath>usbstor.inf</driver_infpath>
+<instance_id>USB\VID_13FE&amp;PID_6000\07210C405594F006</instance_id>
+<capabilities>Removable, UniqueID, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0005.Hub_#0001</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>12/01/2023 17:25:23</registry_time_1>
+<registry_time_2>02/10/2022 17:10:39</registry_time_2>
+<vendorid>054c</vendorid>
+<productid>05c4</productid>
+<firmware_revision>1.00</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>00</usb_subclass>
+<usb_protocol>00</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;295d3a5&amp;1</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_054C&amp;PID_05C4\5&amp;42a5d96&amp;0&amp;5</instance_id>
+<capabilities>Removable, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0005.Hub_#0001</device_name>
+<description>Kingston USB 2.0 FLASH USB Device</description>
+<device_type>Mass Storage</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number>08101400000186</serial_number>
+<registry_time_1>16/12/2022 11:58:59</registry_time_1>
+<registry_time_2>16/12/2022 11:58:59</registry_time_2>
+<vendorid>1307</vendorid>
+<productid>0165</productid>
+<firmware_revision>1.00</firmware_revision>
+<wcid></wcid>
+<usb_class>08</usb_class>
+<usb_subclass>06</usb_subclass>
+<usb_protocol>50</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix></parentid_prefix>
+<service_name>USBSTOR</service_name>
+<service_description>@usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver</service_description>
+<driver_filename>USBSTOR.SYS</driver_filename>
+<device_class></device_class>
+<device_mfg>Compatible USB storage device</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Mass Storage Device</driver_description>
+<driver_version>10.0.22621.1</driver_version>
+<driver_infsection>USBSTOR_BULK.NT</driver_infsection>
+<driver_infpath>usbstor.inf</driver_infpath>
+<instance_id>USB\VID_1307&amp;PID_0165\08101400000186</instance_id>
+<capabilities>Removable, UniqueID, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0005.Hub_#0001</device_name>
+<description>USB Input Device</description>
+<device_type>HID (Human Interface Device)</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>22/01/2023 17:03:20</registry_time_1>
+<registry_time_2>21/10/2022 10:49:48</registry_time_2>
+<vendorid>1ea7</vendorid>
+<productid>0064</productid>
+<firmware_revision>2.00</firmware_revision>
+<wcid></wcid>
+<usb_class>03</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>02</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;927be77&amp;1</parentid_prefix>
+<service_name>HidUsb</service_name>
+<service_description>@input.inf,%HID.SvcDesc%;Microsoft HID Class Driver</service_description>
+<driver_filename>hidusb.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Standard system devices)</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Input Device</driver_description>
+<driver_version>10.0.22621.819</driver_version>
+<driver_infsection>HID_Inst.NT</driver_infsection>
+<driver_infpath>input.inf</driver_infpath>
+<instance_id>USB\VID_1EA7&amp;PID_0064\5&amp;42a5d96&amp;0&amp;5</instance_id>
+<capabilities>Removable, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0006.Hub_#0001</device_name>
+<description>USB Composite Device</description>
+<device_type>Unknown</device_type>
+<connected>Yes</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number>0001</serial_number>
+<registry_time_1>20/01/2023 13:51:40</registry_time_1>
+<registry_time_2>30/09/2022 20:46:29</registry_time_2>
+<vendorid>13d3</vendorid>
+<productid>5480</productid>
+<firmware_revision>21.03</firmware_revision>
+<wcid></wcid>
+<usb_class>00</usb_class>
+<usb_subclass>00</usb_subclass>
+<usb_protocol>00</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;4deb29&amp;0</parentid_prefix>
+<service_name>usbccgp</service_name>
+<service_description>@usb.inf,%GenericParent.SvcDesc%;Driver principale generico USB Microsoft</service_description>
+<driver_filename>usbccgp.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>(Controller host USB standard)</device_mfg>
+<friendly_name></friendly_name>
+<power>500 mA</power>
+<usb_version>2.01</usb_version>
+<driver_description>USB Composite Device</driver_description>
+<driver_version>10.0.22621.608</driver_version>
+<driver_infsection>Composite.Dev.NT</driver_infsection>
+<driver_infpath>usb.inf</driver_infpath>
+<instance_id>USB\VID_13D3&amp;PID_5480\0001</instance_id>
+<capabilities>UniqueID, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0010.Hub_#0001</device_name>
+<description>Intel(R) Wireless Bluetooth(R)</description>
+<device_type>Bluetooth Device</device_type>
+<connected>Yes</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number></serial_number>
+<registry_time_1>24/01/2023 13:06:53</registry_time_1>
+<registry_time_2>30/09/2022 20:46:49</registry_time_2>
+<vendorid>8087</vendorid>
+<productid>0aaa</productid>
+<firmware_revision>0.02</firmware_revision>
+<wcid></wcid>
+<usb_class>e0</usb_class>
+<usb_subclass>01</usb_subclass>
+<usb_protocol>01</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix>6&amp;861190d&amp;0</parentid_prefix>
+<service_name>BTHUSB</service_name>
+<service_description>@bth.inf,%BTHUSB.SvcDesc%;Driver USB radio Bluetooth</service_description>
+<driver_filename>BTHUSB.sys</driver_filename>
+<device_class></device_class>
+<device_mfg>Intel Corporation</device_mfg>
+<friendly_name></friendly_name>
+<power>100 mA</power>
+<usb_version>2.00</usb_version>
+<driver_description>Intel(R) Wireless Bluetooth(R)</driver_description>
+<driver_version>21.50.1.1</driver_version>
+<driver_infsection>ibtusb</driver_infsection>
+<driver_infpath>oem57.inf</driver_infpath>
+<instance_id>USB\VID_8087&amp;PID_0AAA\5&amp;42a5d96&amp;0&amp;10</instance_id>
+<capabilities>SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+<item>
+<device_name>Port_#0015.Hub_#0001</device_name>
+<description>Verbatim STORE N GO USB Device</description>
+<device_type>Mass Storage</device_type>
+<connected>No</connected>
+<safe_to_unplug>Yes</safe_to_unplug>
+<disabled>No</disabled>
+<usb_hub>No</usb_hub>
+<drive_letter></drive_letter>
+<serial_number>070B7253D3B4CE23</serial_number>
+<registry_time_1>08/01/2023 15:28:28</registry_time_1>
+<registry_time_2>08/01/2023 15:25:59</registry_time_2>
+<vendorid>18a5</vendorid>
+<productid>0243</productid>
+<firmware_revision>1.00</firmware_revision>
+<wcid></wcid>
+<usb_class>08</usb_class>
+<usb_subclass>06</usb_subclass>
+<usb_protocol>50</usb_protocol>
+<hub___port></hub___port>
+<computer_name>DESKTOP-COEI5A4</computer_name>
+<vendor_name></vendor_name>
+<product_name></product_name>
+<parentid_prefix></parentid_prefix>
+<service_name>USBSTOR</service_name>
+<service_description>@usbstor.inf,%USBSTOR.SvcDesc%;USB Mass Storage Driver</service_description>
+<driver_filename>USBSTOR.SYS</driver_filename>
+<device_class></device_class>
+<device_mfg>Compatible USB storage device</device_mfg>
+<friendly_name></friendly_name>
+<power></power>
+<usb_version></usb_version>
+<driver_description>USB Mass Storage Device</driver_description>
+<driver_version>10.0.22621.1</driver_version>
+<driver_infsection>USBSTOR_BULK.NT</driver_infsection>
+<driver_infpath>usbstor.inf</driver_infpath>
+<instance_id>USB\VID_18A5&amp;PID_0243\070B7253D3B4CE23</instance_id>
+<capabilities>Removable, UniqueID, SurpriseRemovalOK</capabilities>
+<install_time></install_time>
+<first_install_time></first_install_time>
+<connect_time></connect_time>
+<disconnect_time></disconnect_time>
+</item>
+</usb_devices_list>
