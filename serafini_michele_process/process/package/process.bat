@@ -1,6 +1,6 @@
 @echo off
 
-set "programma=ps.py"
+set "programma=process.py"
 
 if exist "%programma%" (
   python "%programma%"
