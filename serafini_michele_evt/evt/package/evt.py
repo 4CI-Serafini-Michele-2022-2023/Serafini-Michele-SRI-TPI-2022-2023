@@ -27,14 +27,16 @@ def xml(f):
     open = win32evtlog.OpenEventLog(server, logtype)
     contrario = win32evtlog.EVENTLOG_BACKWARDS_READ|win32evtlog.EVENTLOG_SEQUENTIAL_READ
     events = win32evtlog.ReadEventLog(open, contrario, 0)
+    total = win32evtlog.GetNumberOfEventLogRecords(open)
     root = et.Element("events")
-    for event in events:
-        event_xml = et.SubElement(root, "event")
-        et.SubElement(event_xml, "event_category").text = str(event.EventCategory)
-        et.SubElement(event_xml, "time").text = str(event.TimeGenerated)
-        et.SubElement(event_xml, "name").text = str(event.ComputerName)
-        tree = et.ElementTree(root)
-    tree.write(f)
+    for x in range(total):
+        for event in events:
+            event_xml = et.SubElement(root, "event")
+            et.SubElement(event_xml, "event_category").text = str(event.EventCategory)
+            et.SubElement(event_xml, "time").text = str(event.TimeGenerated)
+            et.SubElement(event_xml, "name").text = str(event.ComputerName)
+            tree = et.ElementTree(root)
+        tree.write(f)
 
 
 def db():
@@ -46,28 +48,32 @@ def db():
     open = win32evtlog.OpenEventLog(server, logtype)
     contrario = win32evtlog.EVENTLOG_BACKWARDS_READ|win32evtlog.EVENTLOG_SEQUENTIAL_READ
     events = win32evtlog.ReadEventLog(open, contrario,0)
+    total = win32evtlog.GetNumberOfEventLogRecords(open)
 
     database = sqlite3.connect("../flussi/evt.db")
     cursor = database.cursor()
     cursor.execute("CREATE TABLE IF NOT EXISTS evt (name, Last_access, Category_event)")
-    for event in events:
-        cursor.execute("INSERT INTO evt (name, Last_access, Category_event) VALUES (?, ?, ?)",
-        (event.ComputerName, str(event.TimeGenerated), event.EventCategory))
-        database.commit()
-    database.close()
+    for x in range(total):
+        for event in events:
+            cursor.execute("INSERT INTO evt (name, Last_access, Category_event) VALUES (?, ?, ?)",
+            (event.ComputerName, str(event.TimeGenerated), event.EventCategory))
+            database.commit()
+        database.close()
 
 
 def csv():
     server = None
-    logtype = "Security"  
+    logtype = "Security"
 
     open = win32evtlog.OpenEventLog(server, logtype)
     contrario = win32evtlog.EVENTLOG_BACKWARDS_READ|win32evtlog.EVENTLOG_SEQUENTIAL_READ
     events = win32evtlog.ReadEventLog(open, contrario, 0)
+    total = win32evtlog.GetNumberOfEventLogRecords(open)
 
-    for event in events:
-        fog.write("Nome: " + str(event.ComputerName) + ";  " + "Ultimo accesso: " + str(event.TimeGenerated) + ";  " +
-         "Event category: " + str(event.EventCategory) + "\n")
+    for x in range(total):
+        for event in events:
+            fog.write("Nome: " + str(event.ComputerName) + ";  " + "Ultimo accesso: " + str(event.TimeGenerated) + ";  " +
+            "Event category: " + str(event.EventCategory) + "\n")
 
 
 if __name__ == "__main__":
