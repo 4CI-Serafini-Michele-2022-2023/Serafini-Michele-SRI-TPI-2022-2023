@@ -9,6 +9,7 @@ import sqlite3
 import win32evtlog
 import xml.etree.ElementTree as et
 
+#win32_NTLogEvent
 
 def trace():
     """
