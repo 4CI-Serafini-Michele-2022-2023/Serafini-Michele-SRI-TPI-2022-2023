@@ -23,14 +23,44 @@ def csv():
     nome processo, stato del processo e la sua data di creazione
     """
     current_user = os.getlogin()
-    for i in psutil.process_iter(['username']):
-        if i.info['username']=="SYSTEM":
-            fo.write(DATA + ";" + str(platform.node()) + ";" +
-            str(i.pid) + ";" + str(i.status()) + "\n")
-            print(i.pid)
-        elif i.info['username'] == current_user:
+    print(current_user)
+    for i in psutil.process_iter():
+        sium = i.username().split("\\")
+        if sium[1] == current_user:
+            
             fog.write(DATA + ";" + str(platform.node()) + ";" +
             str(i.pid) + ";" + str(i.status()) + "\n")
+            
+        else:
+            fo.write(DATA + ";" + str(platform.node()) + ";" +
+            str(i.pid) + ";" + str(i.status()) + "\n")
+
+
+def find_process_by_pid(pid):
+    """
+    Cerca un processo utilizzando il suo PID.
+    Restituisce l'oggetto `psutil.Process` corrispondente se trovato,
+    altrimenti restituisce `None`.
+    """
+    try:
+        process = psutil.Process(pid)
+        process.terminate()
+    except psutil.NoSuchProcess:
+        return None
+
+def find_processes_by_name(name):
+    """
+    Cerca i processi utilizzando il loro nome.
+    Restituisce una lista di oggetti `psutil.Process` corrispondenti
+    a tutti i processi con il nome specificato.
+    """
+    for process in psutil.process_iter(['pid', 'name']):
+        if process.info['name'] == name:
+            process.terminate()  # Termina il processo
+            print(f"Processo {name} ({process.info['pid']}) terminato.")
+            return  # Esce dalla funzione dopo aver terminato il primo processo corrispondente
+    print(f"Nessun processo trovato con il nome {name}.")
+
 
 
 if __name__ == "__main__":
@@ -40,5 +70,9 @@ if __name__ == "__main__":
     fogg = open("../log/trace.log", "a", encoding = "latin-1")
     trace()
     csv()
+    print("inserisci il pid del processo da killare")
+    process = find_process_by_pid(int(input()))
+    print("inserisci il nome del processo da killare")
+    processes = find_processes_by_name(str(input()))
     fog.close()
     fogg.close()
