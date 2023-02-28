@@ -22,6 +22,9 @@ def xml(f):
     """
     salvare le info dei processi sul file XML
     """
+    style = xml.ProcessingInstruction("stile.css", 
+    text = 'type="text/css" href="../stile.css"')
+    root.addprevious(style)
     server = None
     logtype = "Security" 
     open = win32evtlog.OpenEventLog(server, logtype)
