@@ -7,7 +7,7 @@ from datetime import datetime
 import platform
 import sqlite3
 import win32evtlog
-import xml.etree.ElementTree as et
+from lxml import etree as et
 
 #win32_NTLogEvent
 
@@ -22,22 +22,26 @@ def xml(f):
     """
     salvare le info dei processi sul file XML
     """
-    pi = ET.ProcessingInstruction('xml-stylesheet', 'type="text/css" href="stile.css"')
+    root = et.Element("events")
+    p_i = et.ProcessingInstruction("xml-stylesheet",
+    text='type="text/css" href="../package/stile.css"')
+    root.addprevious(p_i)
     server = None
-    logtype = "Security" 
+    logtype = "Security"
     open = win32evtlog.OpenEventLog(server, logtype)
     contrario = win32evtlog.EVENTLOG_BACKWARDS_READ|win32evtlog.EVENTLOG_SEQUENTIAL_READ
-    events = win32evtlog.ReadEventLog(open, contrario, 0)
     total = win32evtlog.GetNumberOfEventLogRecords(open)
-    root = et.Element("events")
+
     for x in range(total):
+        events = win32evtlog.ReadEventLog(open, contrario, 0)
         for event in events:
             event_xml = et.SubElement(root, "event")
             et.SubElement(event_xml, "event_category").text = str(event.EventCategory)
             et.SubElement(event_xml, "time").text = str(event.TimeGenerated)
             et.SubElement(event_xml, "name").text = str(event.ComputerName)
-            tree = et.ElementTree(root)
-        tree.write(f)
+
+    tree = et.ElementTree(root)
+    tree.write(f)
 
 
 def db():
