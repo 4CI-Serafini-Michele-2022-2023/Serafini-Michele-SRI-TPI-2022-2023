@@ -7,9 +7,8 @@ from datetime import datetime
 import platform
 import sqlite3
 import win32evtlog
-from lxml import etree as et
+from xml import etree as et
 
-#win32_NTLogEvent
 
 def trace():
     """
