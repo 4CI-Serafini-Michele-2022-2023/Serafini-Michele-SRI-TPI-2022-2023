@@ -1,3 +1,7 @@
 name{
   color: purple;
 }
+event{
+  background-color: blueviolet;
+  display: block;
+}

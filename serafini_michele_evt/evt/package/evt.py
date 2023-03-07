@@ -7,7 +7,7 @@ from datetime import datetime
 import platform
 import sqlite3
 import win32evtlog
-from xml import etree as et
+from lxml import etree as et
 
 
 def trace():
