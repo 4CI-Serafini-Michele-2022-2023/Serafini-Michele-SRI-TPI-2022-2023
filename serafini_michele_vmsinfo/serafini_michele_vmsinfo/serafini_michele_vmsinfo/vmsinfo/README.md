@@ -9,19 +9,19 @@
 
 ## Descrizione
 
-Questo programma cross-platform prende la configurazione della scheda di rete.
+Questo programma salva su un file di log le vms presenti su virtualbox
 
 ## Requisiti
 
-pip, ifcfg, macchina virtuale
+macchina virtuale
 
 ## Esecuzione
 
-LINUX: aprire il cmd, andare nella cartella dove è presente il file python e scaricare le librerie 'pip' e 'ifcfg', poi eseguire il file python.
+Andare nella cartella 'package' del pacchetto ed eseguire il file .bat
 
 ## Tags
 
-python, linux, windows, scheda di rete, configurazione, cross-platform
+python, windows, vms, batch
 
 #### [01.01] 2022-12-23
 
