@@ -1,0 +1,2213 @@
+<?xml version="1.0"  encoding="ISO-8859-1" ?>
+<url_protocols_list>
+<item>
+<url_name>about</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>Microsoft HTML About Pluggable Protocol</description>
+<command-line>C:\Windows\System32\mshtml.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>appinstaller.oauth2</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:appinstaller.oauth2</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:58</modified_time>
+</item>
+<item>
+<url_name>armodelviewing</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:armodelviewing</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>bingmaps</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>bingnews</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:bingnews</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:59</modified_time>
+</item>
+<item>
+<url_name>bingweather</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:bingweather</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>bitwarden</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:bitwarden</description>
+<command-line>&quot;C:\Users\mikes\AppData\Local\Programs\Bitwarden\Bitwarden.exe&quot; &quot;%1&quot;</command-line>
+<product_name>Bitwarden</product_name>
+<company_name>Bitwarden Inc.</company_name>
+<modified_time>15/03/2023 14:58:03</modified_time>
+</item>
+<item>
+<url_name>calculator</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:calculator</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>cdl</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>CDL: Asychronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\urlmon.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>com.clipchamp.app</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:com.clipchamp.app</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:59</modified_time>
+</item>
+<item>
+<url_name>com.microsoft.3dviewer</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:com.microsoft.3dviewer</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>Discord</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:Discord Protocol</description>
+<command-line>&quot;C:\Users\mikes\AppData\Local\Discord\app-1.0.9011\Discord.exe&quot; --url -- &quot;%1&quot;</command-line>
+<product_name>Discord</product_name>
+<company_name>Discord Inc.</company_name>
+<modified_time>21/02/2023 13:14:03</modified_time>
+</item>
+<item>
+<url_name>DLNA-PLAYSINGLE</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:Play Single DLNA Item Protocol</description>
+<command-line>&quot;%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe&quot; &quot;%L&quot;</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 10:31:52</modified_time>
+</item>
+<item>
+<url_name>dvd</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>DVD: Pluggable Protocol</description>
+<command-line>C:\Windows\System32\msvidctl.dll</command-line>
+<product_name>DirectShow</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>Explorer.AssocActionId.BurnSelection</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line>%SystemRoot%\explorer.exe</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:00</modified_time>
+</item>
+<item>
+<url_name>Explorer.AssocActionId.EraseDisc</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line>%SystemRoot%\explorer.exe</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:00</modified_time>
+</item>
+<item>
+<url_name>Explorer.AssocActionId.ZipSelection</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line>%SystemRoot%\explorer.exe</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:00</modified_time>
+</item>
+<item>
+<url_name>Explorer.AssocProtocol.search-ms</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Windows Search Protocol</description>
+<command-line>%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:00</modified_time>
+</item>
+<item>
+<url_name>Explorer.BurnSelection</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>File Explorer ‘Burn to disc’ button</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:00</modified_time>
+</item>
+<item>
+<url_name>Explorer.EraseDisc</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>File Explorer ‘Erase this disc’ button</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:00</modified_time>
+</item>
+<item>
+<url_name>Explorer.ZipSelection</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>File Explorer ‘Zip’ button</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:00</modified_time>
+</item>
+<item>
+<url_name>feedback-hub</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:feedback-hub</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>file</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>file:, local: Asychronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\urlmon.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>file</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:File Protocol</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:00</modified_time>
+</item>
+<item>
+<url_name>FirefoxURL-308046B0AF4A39CB</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Firefox URL</description>
+<command-line>&quot;C:\Program Files\Mozilla Firefox\firefox.exe&quot; -osint -url &quot;%1&quot;</command-line>
+<product_name>Firefox</product_name>
+<company_name>Mozilla Corporation</company_name>
+<modified_time>10/03/2023 12:13:35</modified_time>
+</item>
+<item>
+<url_name>ftp</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>ftp: Asychronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\urlmon.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>ftp</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:File Transfer Protocol</description>
+<command-line>&quot;C:\Program Files\Internet Explorer\iexplore.exe&quot; %1</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>19/02/2023 19:17:40</modified_time>
+</item>
+<item>
+<url_name>grvopen</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL: OneDrive Client Protocol</description>
+<command-line>&quot;C:\Users\mikes\AppData\Local\Microsoft\OneDrive\OneDrive.exe&quot; /url:&quot;%1&quot;</command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>http</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:http</description>
+<command-line>&quot;C:\Program Files\Internet Explorer\iexplore.exe&quot; %1</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>http</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>http: Asychronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\urlmon.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>https</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:https</description>
+<command-line>&quot;C:\Program Files\Internet Explorer\iexplore.exe&quot; %1</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>https</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>https: Asychronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\urlmon.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>IE.HTTP</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:HyperText Transfer Protocol</description>
+<command-line>&quot;C:\Program Files\Internet Explorer\iexplore.exe&quot; %1</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>19/02/2023 19:17:40</modified_time>
+</item>
+<item>
+<url_name>iehistory</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>IE History and Feeds Shell Data Source for Windows Search</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 10:30:55</modified_time>
+</item>
+<item>
+<url_name>ierss</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>IE History and Feeds Shell Data Source for Windows Search</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 10:30:55</modified_time>
+</item>
+<item>
+<url_name>insiderhub</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:insiderhub</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:10</modified_time>
+</item>
+<item>
+<url_name>its</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>its: Asychronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\itss.dll</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>javascript</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>Microsoft HTML Javascript Pluggable Protocol</description>
+<command-line>C:\Windows\System32\mshtml.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>LDAP</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:LDAP Protocol</description>
+<command-line>&quot;%ProgramFiles%\Windows Mail\wab.exe&quot; &quot;/ldap:%1&quot;</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>local</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>file:, local: Asychronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\urlmon.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>mailto</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>Microsoft HTML Mailto Pluggable Protocol</description>
+<command-line>C:\Windows\System32\mshtml.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>mailto</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Thunderbird URL</description>
+<command-line>&quot;C:\Program Files\Mozilla Thunderbird\thunderbird.exe&quot; -osint -compose &quot;%1&quot;</command-line>
+<product_name>Thunderbird</product_name>
+<company_name>Mozilla Corporation</company_name>
+<modified_time>12/03/2023 13:02:20</modified_time>
+</item>
+<item>
+<url_name>mapi</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>mhtml</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>MHTML Asynchronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\inetcomm.dll</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>microsoft-edge</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>microsoft-edge-holographic</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>microsoft.windows.camera</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:microsoft.windows.camera</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>microsoft.windows.camera.multipicker</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:microsoft.windows.camera.multipicker</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:56:47</modified_time>
+</item>
+<item>
+<url_name>microsoft.windows.camera.picker</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:microsoft.windows.camera.picker</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>microsoft.windows.photos.crop</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:microsoft.windows.photos.crop</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>microsoft.windows.photos.picker</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:microsoft.windows.photos.picker</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>microsoft.windows.photos.videoedit</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:microsoft.windows.photos.videoedit</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>Microsoft.Workfolders</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Microsoft Workfolders</description>
+<command-line>C:\Windows\System32\control.exe /name Microsoft.WorkFolders</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>19/02/2023 19:17:41</modified_time>
+</item>
+<item>
+<url_name>microsoftmusic</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:microsoftmusic</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>microsoftsolitairecollection</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:microsoftsolitairecollection</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>22/02/2023 14:25:36</modified_time>
+</item>
+<item>
+<url_name>microsoftvideo</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:microsoftvideo</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>mid</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Thunderbird URL</description>
+<command-line>&quot;C:\Program Files\Mozilla Thunderbird\thunderbird.exe&quot; &quot;%1&quot;</command-line>
+<product_name>Thunderbird</product_name>
+<company_name>Mozilla Corporation</company_name>
+<modified_time>12/03/2023 13:02:20</modified_time>
+</item>
+<item>
+<url_name>mk</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>mk: Asychronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\urlmon.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>mk</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:MK Protocol</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>MMS</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:mms Protocol</description>
+<command-line>&quot;%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe&quot; &quot;%L&quot;</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 10:31:51</modified_time>
+</item>
+<item>
+<url_name>ms-aad-brokerplugin</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-aad-brokerplugin</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-actioncenter</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-actioncenter</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-appinstaller</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-appinstaller</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-apprep</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-apprep</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-availablenetworks</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:Available Networks Protocol</description>
+<command-line>&quot;%SystemRoot%\system32\LaunchWinApp.exe&quot; &quot;%1&quot;</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-calculator</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-calculator</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-clock</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-clock</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-contact-support</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-contact-support</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-cortana2</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-cortana2</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-cxh</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-cxh</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-cxh-full</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>CloudExperienceHost Launch Protocol</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-default-location</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-default-location</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-device-enrollment</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-device-enrollment</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-device-enrollment2</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-device-enrollment2</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:39:32</modified_time>
+</item>
+<item>
+<url_name>ms-drive-to</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-drive-to</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-eyecontrolspeech</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-eyecontrolspeech</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-family</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-family</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:56:33</modified_time>
+</item>
+<item>
+<url_name>ms-gamebar</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-gamebar</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>22/02/2023 14:23:16</modified_time>
+</item>
+<item>
+<url_name>ms-gamebarservices</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-gamebarservices</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-gamingoverlay</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-gamingoverlay</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-get-started</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-get-started</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-getoffice</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-getoffice</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-holographicfirstrun</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-holographicfirstrun</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-inputapp</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-inputapp</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-insights</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-insights</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-ipmessaging</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-ipmessaging</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-its</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>ms-its: Asychronous Pluggable Protocol Handler</description>
+<command-line>C:\Windows\System32\itss.dll</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>ms-lwh</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-lwh</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:39:32</modified_time>
+</item>
+<item>
+<url_name>ms-meetnow</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-meetnow</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:56:38</modified_time>
+</item>
+<item>
+<url_name>ms-meetnowflyout</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-meetnowflyout</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-mmsys</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line>%SystemRoot%\System32\rundll32.exe %SystemRoot%\System32\shell32.dll,Control_RunDLL %SystemRoot%\System32\mmsys.cpl %1</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-msdt</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-msdt</description>
+<command-line>&quot;%SystemRoot%\system32\msdt.exe&quot; %1</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-msime-imepad</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line>C:\Windows\System32\IME\SHARED\IMEPADSV.EXE %1</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-msime-imjpdct</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line>C:\Windows\System32\IME\IMEJP\IMJPDCT.EXE %1</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-newsandinterests</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-newsandinterests</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-officeapp</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-officeapp</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-officecmd</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-officecmd</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-oobenetwork</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-oobenetwork</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-outlook</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-outlook</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>08/03/2023 18:22:31</modified_time>
+</item>
+<item>
+<url_name>ms-paint</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-paint</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-penworkspace</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-penworkspace</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-people</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-people</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-perception-simulation</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Url:Perception Simulation Protocol</description>
+<command-line>%SystemRoot%\system32\PerceptionSimulation\PerceptionSimulationInput.exe %1</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 10:31:51</modified_time>
+</item>
+<item>
+<url_name>ms-phone</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-phone</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-photos</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-photos</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-playto-audio</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-playto-audio</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:40:58</modified_time>
+</item>
+<item>
+<url_name>ms-powerautomate</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-powerautomate</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:52</modified_time>
+</item>
+<item>
+<url_name>ms-powerautomatedesigner</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-powerautomatedesigner</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>17/03/2023 17:38:27</modified_time>
+</item>
+<item>
+<url_name>ms-print-addprinter</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-print-addprinter</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-print-printjobs</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-print-printjobs</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-print-queue</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-print-queue</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:55:57</modified_time>
+</item>
+<item>
+<url_name>ms-quick-assist</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-quick-assist</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:56:32</modified_time>
+</item>
+<item>
+<url_name>ms-rdx-document</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line>%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\RDXService,OpenRDXDocument %1</command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-retaildemo-launchbioenrollment</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-retaildemo-launchbioenrollment</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-retaildemo-launchstart</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-retaildemo-launchstart</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-screenclip</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-screenclip</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-screensketch</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-screensketch</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-search</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-search</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-settings</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-airplanemode</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-airplanemode</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-bluetooth</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-bluetooth</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-cellular</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-cellular</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-connectabledevices</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:Devices Flow Connectable Devices Protocol</description>
+<command-line>&quot;%SystemRoot%\system32\LaunchWinApp.exe&quot; &quot;%1&quot;</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-displays-topology</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:Devices Flow Display Topology Protocol</description>
+<command-line>&quot;%SystemRoot%\system32\LaunchWinApp.exe&quot; &quot;%1&quot;</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-emailandaccounts</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-emailandaccounts</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-language</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-language</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-location</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-location</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-lock</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-lock</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-mobilehotspot</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-mobilehotspot</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-notifications</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-notifications</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-power</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-power</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-privacy</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-privacy</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-proximity</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-proximity</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-screenrotation</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-screenrotation</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-wifi</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-wifi</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-settings-workplace</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-settings-workplace</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-stickereditor</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-stickereditor</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:39:32</modified_time>
+</item>
+<item>
+<url_name>ms-sttoverlay</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-sttoverlay</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-taskswitcher</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-taskswitcher</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-teams</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-teams</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:56:38</modified_time>
+</item>
+<item>
+<url_name>ms-to-do</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-to-do</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:51</modified_time>
+</item>
+<item>
+<url_name>ms-todo</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-todo</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:51</modified_time>
+</item>
+<item>
+<url_name>ms-unistore-email</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-unistore-email</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-virtualtouchpad</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:Virtual Touchpad</description>
+<command-line>&quot;%SystemRoot%\system32\LaunchWinApp.exe&quot; &quot;%1&quot;</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-voip-call</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-voip-call</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-voip-video</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-voip-video</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-walk-to</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-walk-to</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-wcrv</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-wcrv</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-widgets</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-widgets</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 20:25:29</modified_time>
+</item>
+<item>
+<url_name>ms-windows-search</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-windows-search</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:02</modified_time>
+</item>
+<item>
+<url_name>ms-windows-store</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-windows-store</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-windows-store-deskext</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-windows-store-deskext</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:39:43</modified_time>
+</item>
+<item>
+<url_name>ms-windows-store2</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-windows-store2</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-wpc</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-wpc</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-wpdrmv</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-wpdrmv</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-wxh</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-wxh</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:39:32</modified_time>
+</item>
+<item>
+<url_name>ms-xbet-survey</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-xbet-survey</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:51</modified_time>
+</item>
+<item>
+<url_name>ms-xbl-3d8b930f</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>ms-xgpueject</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:ms-xgpueject</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>msgamepass</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:msgamepass</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:57</modified_time>
+</item>
+<item>
+<url_name>msgamingapp</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:msgamingapp</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:57</modified_time>
+</item>
+<item>
+<url_name>msnews</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:msnews</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:59</modified_time>
+</item>
+<item>
+<url_name>msnnews</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:msnnews</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:59</modified_time>
+</item>
+<item>
+<url_name>msnweather</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:msnweather</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>mswindowsmusic</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>mswindowsvideo</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>msxbox</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:msxbox</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:57:57</modified_time>
+</item>
+<item>
+<url_name>netflix</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:netflix</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 22:26:21</modified_time>
+</item>
+<item>
+<url_name>news</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Thunderbird (News) URL</description>
+<command-line>&quot;C:\Program Files\Mozilla Thunderbird\thunderbird.exe&quot; -osint -mail &quot;%1&quot;</command-line>
+<product_name>Thunderbird</product_name>
+<company_name>Mozilla Corporation</company_name>
+<modified_time>12/03/2023 13:05:20</modified_time>
+</item>
+<item>
+<url_name>nh3-msi</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:nh3-msi</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:56:32</modified_time>
+</item>
+<item>
+<url_name>nntp</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Thunderbird (News) URL</description>
+<command-line>&quot;C:\Program Files\Mozilla Thunderbird\thunderbird.exe&quot; -osint -mail &quot;%1&quot;</command-line>
+<product_name>Thunderbird</product_name>
+<company_name>Mozilla Corporation</company_name>
+<modified_time>12/03/2023 13:05:20</modified_time>
+</item>
+<item>
+<url_name>onenote</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:onenote</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>onenote-cmd</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:onenote-cmd</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>outlookaccounts</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:outlookaccounts</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>outlookcal</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:outlookcal</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>outlookmail</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:outlookmail</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>read</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description></description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>res</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:RES Protocol</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>res</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>Microsoft HTML Resource Pluggable Protocol</description>
+<command-line>C:\Windows\System32\mshtml.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>rlogin</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:RLogin Protocol</description>
+<command-line>&quot;C:\Windows\System32\rundll32.exe&quot; &quot;C:\Windows\System32\url.dll&quot;,TelnetProtocolHandler %l</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>19/02/2023 19:17:41</modified_time>
+</item>
+<item>
+<url_name>search</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Windows Search Protocol</description>
+<command-line>%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>search-ms</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Windows Search Protocol</description>
+<command-line>%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>skype</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:skype</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>skypewin</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:skypewin</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>snews</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>Thunderbird (News) URL</description>
+<command-line>&quot;C:\Program Files\Mozilla Thunderbird\thunderbird.exe&quot; -osint -mail &quot;%1&quot;</command-line>
+<product_name>Thunderbird</product_name>
+<company_name>Mozilla Corporation</company_name>
+<modified_time>12/03/2023 13:05:20</modified_time>
+</item>
+<item>
+<url_name>tbauth</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>Microsoft TBAuth Single-Sign On Protocol</description>
+<command-line>C:\Windows\System32\tbauth.dll</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>tbauth</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:tbauth</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>tel</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:tel</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>telnet</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:Telnet Protocol</description>
+<command-line>&quot;C:\Windows\System32\rundll32.exe&quot; &quot;C:\Windows\System32\url.dll&quot;,TelnetProtocolHandler %l</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>19/02/2023 19:17:41</modified_time>
+</item>
+<item>
+<url_name>tn3270</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:TN3270 Protocol</description>
+<command-line>&quot;C:\Windows\System32\rundll32.exe&quot; &quot;C:\Windows\System32\url.dll&quot;,TelnetProtocolHandler %l</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>19/02/2023 19:17:41</modified_time>
+</item>
+<item>
+<url_name>tv</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>TV: Pluggable Protocol</description>
+<command-line>C:\Windows\System32\msvidctl.dll</command-line>
+<product_name>DirectShow</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>vbscript</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>Microsoft HTML Javascript Pluggable Protocol</description>
+<command-line>C:\Windows\System32\mshtml.dll</command-line>
+<product_name>Internet Explorer</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>vmrc</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:VMware VMRC Protocol</description>
+<command-line>&quot;C:\Program Files (x86)\VMware\VMware Player\vmplayer.exe&quot; &quot;%1&quot;</command-line>
+<product_name>VMware Workstation</product_name>
+<company_name>VMware, Inc.</company_name>
+<modified_time>24/03/2023 11:34:30</modified_time>
+</item>
+<item>
+<url_name>vmware-rvm</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:VMware Restricted VM Protocol</description>
+<command-line>&quot;C:\Program Files (x86)\VMware\VMware Player\vmplayer.exe&quot; &quot;%1&quot;</command-line>
+<product_name>VMware Workstation</product_name>
+<company_name>VMware, Inc.</company_name>
+<modified_time>24/03/2023 11:34:30</modified_time>
+</item>
+<item>
+<url_name>vnd.libreoffice.command</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:vnd.libreoffice.command Protocol</description>
+<command-line>&quot;C:\Program Files\LibreOffice\program\soffice.exe&quot; &quot;%1&quot;</command-line>
+<product_name>LibreOffice</product_name>
+<company_name>The Document Foundation</company_name>
+<modified_time>05/03/2023 13:53:53</modified_time>
+</item>
+<item>
+<url_name>vscode</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:vscode</description>
+<command-line>&quot;C:\Users\mikes\AppData\Local\Programs\Microsoft VS Code\Code.exe&quot; &quot;--open-url&quot;  &quot;--&quot; &quot;%1&quot;</command-line>
+<product_name>Visual Studio Code</product_name>
+<company_name>Microsoft Corporatio</company_name>
+<modified_time>20/02/2023 10:53:42</modified_time>
+</item>
+<item>
+<url_name>webcal</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:webcal</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>08/03/2023 18:22:31</modified_time>
+</item>
+<item>
+<url_name>webcals</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:webcals</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>08/03/2023 18:22:31</modified_time>
+</item>
+<item>
+<url_name>whatsapp</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:whatsapp</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>16/03/2023 18:58:10</modified_time>
+</item>
+<item>
+<url_name>windows-feedback</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:windows-feedback</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>windows.tbauth</url_name>
+<status>Enabled</status>
+<type>Pluggable Protocol Handler</type>
+<description>Microsoft TBAuth Single-Sign On Protocol</description>
+<command-line>C:\Windows\System32\tbauth.dll</command-line>
+<product_name>Microsoft® Windows® Operating System</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>windows.tbauth</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:windows.tbauth</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>07/05/2022 05:28:03</modified_time>
+</item>
+<item>
+<url_name>windowsdefender</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:windowsdefender</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>WMP11.AssocProtocol.DLNA-PLAYSINGLE</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:dlna-playsingle Protocol</description>
+<command-line>&quot;%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe&quot; &quot;%L&quot;</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 10:31:51</modified_time>
+</item>
+<item>
+<url_name>WMP11.AssocProtocol.MMS</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:mms Protocol</description>
+<command-line>&quot;%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe&quot; &quot;%L&quot;</command-line>
+<product_name>Sistema operativo Microsoft® Windows®</product_name>
+<company_name>Microsoft Corporation</company_name>
+<modified_time>07/05/2022 10:31:51</modified_time>
+</item>
+<item>
+<url_name>xbls</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbls</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-arena</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-arena</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-captures</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-captures</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-friendfinder</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-friendfinder</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-gamehub</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-gamehub</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-lfg</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-lfg</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-network</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-network</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-profile</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-profile</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-settings</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-settings</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-store</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-store</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xbox-tcui</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xbox-tcui</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xboxgames</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xboxgames</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xboxliveapp-1297287741</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xboxliveapp-1297287741</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>xboxmusic</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:xboxmusic</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+<item>
+<url_name>zune</url_name>
+<status>Enabled</status>
+<type>Executable</type>
+<description>URL:zune</description>
+<command-line></command-line>
+<product_name></product_name>
+<company_name></company_name>
+<modified_time>19/02/2023 19:19:11</modified_time>
+</item>
+</url_protocols_list>
