@@ -1,0 +1,221 @@
+about	Enabled	Pluggable Protocol Handler	Microsoft HTML About Pluggable Protocol	C:\Windows\System32\mshtml.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+appinstaller.oauth2	Enabled	Executable	URL:appinstaller.oauth2				19/02/2023 19:57:58	
+armodelviewing	Enabled	Executable	URL:armodelviewing				19/02/2023 19:19:10	
+bingmaps	Enabled	Executable					19/02/2023 19:19:10	
+bingnews	Enabled	Executable	URL:bingnews				19/02/2023 19:57:59	
+bingweather	Enabled	Executable	URL:bingweather				19/02/2023 19:19:10	
+bitwarden	Enabled	Executable	URL:bitwarden	"C:\Users\mikes\AppData\Local\Programs\Bitwarden\Bitwarden.exe" "%1"	Bitwarden	Bitwarden Inc.	15/03/2023 14:58:03	
+calculator	Enabled	Executable	URL:calculator				19/02/2023 19:19:10	
+cdl	Enabled	Pluggable Protocol Handler	CDL: Asychronous Pluggable Protocol Handler	C:\Windows\System32\urlmon.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+com.clipchamp.app	Enabled	Executable	URL:com.clipchamp.app				19/02/2023 19:57:59	
+com.microsoft.3dviewer	Enabled	Executable	URL:com.microsoft.3dviewer				19/02/2023 19:19:10	
+Discord	Enabled	Executable	URL:Discord Protocol	"C:\Users\mikes\AppData\Local\Discord\app-1.0.9011\Discord.exe" --url -- "%1"	Discord	Discord Inc.	21/02/2023 13:14:03	
+DLNA-PLAYSINGLE	Enabled	Executable	URL:Play Single DLNA Item Protocol	"%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" "%L"	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 10:31:52	
+dvd	Enabled	Pluggable Protocol Handler	DVD: Pluggable Protocol	C:\Windows\System32\msvidctl.dll	DirectShow	Microsoft Corporation	07/05/2022 05:28:03	
+Explorer.AssocActionId.BurnSelection	Enabled	Executable		%SystemRoot%\explorer.exe	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 05:28:00	
+Explorer.AssocActionId.EraseDisc	Enabled	Executable		%SystemRoot%\explorer.exe	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 05:28:00	
+Explorer.AssocActionId.ZipSelection	Enabled	Executable		%SystemRoot%\explorer.exe	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 05:28:00	
+Explorer.AssocProtocol.search-ms	Enabled	Executable	Windows Search Protocol	%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 05:28:00	
+Explorer.BurnSelection	Enabled	Executable	File Explorer ‘Burn to disc’ button				07/05/2022 05:28:00	
+Explorer.EraseDisc	Enabled	Executable	File Explorer ‘Erase this disc’ button				07/05/2022 05:28:00	
+Explorer.ZipSelection	Enabled	Executable	File Explorer ‘Zip’ button				07/05/2022 05:28:00	
+feedback-hub	Enabled	Executable	URL:feedback-hub				19/02/2023 19:19:10	
+file	Enabled	Pluggable Protocol Handler	file:, local: Asychronous Pluggable Protocol Handler	C:\Windows\System32\urlmon.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+file	Enabled	Executable	URL:File Protocol				07/05/2022 05:28:00	
+FirefoxURL-308046B0AF4A39CB	Enabled	Executable	Firefox URL	"C:\Program Files\Mozilla Firefox\firefox.exe" -osint -url "%1"	Firefox	Mozilla Corporation	10/03/2023 12:13:35	
+ftp	Enabled	Pluggable Protocol Handler	ftp: Asychronous Pluggable Protocol Handler	C:\Windows\System32\urlmon.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+ftp	Enabled	Executable	URL:File Transfer Protocol	"C:\Program Files\Internet Explorer\iexplore.exe" %1	Internet Explorer	Microsoft Corporation	19/02/2023 19:17:40	
+grvopen	Enabled	Executable	URL: OneDrive Client Protocol	"C:\Users\mikes\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /url:"%1"			19/02/2023 19:19:10	
+http	Enabled	Executable	URL:http	"C:\Program Files\Internet Explorer\iexplore.exe" %1	Internet Explorer	Microsoft Corporation	19/02/2023 19:19:10	
+http	Enabled	Pluggable Protocol Handler	http: Asychronous Pluggable Protocol Handler	C:\Windows\System32\urlmon.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+https	Enabled	Executable	URL:https	"C:\Program Files\Internet Explorer\iexplore.exe" %1	Internet Explorer	Microsoft Corporation	19/02/2023 19:19:10	
+https	Enabled	Pluggable Protocol Handler	https: Asychronous Pluggable Protocol Handler	C:\Windows\System32\urlmon.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+IE.HTTP	Enabled	Executable	URL:HyperText Transfer Protocol	"C:\Program Files\Internet Explorer\iexplore.exe" %1	Internet Explorer	Microsoft Corporation	19/02/2023 19:17:40	
+iehistory	Enabled	Executable	IE History and Feeds Shell Data Source for Windows Search				07/05/2022 10:30:55	
+ierss	Enabled	Executable	IE History and Feeds Shell Data Source for Windows Search				07/05/2022 10:30:55	
+insiderhub	Enabled	Executable	URL:insiderhub				19/02/2023 19:19:10	
+its	Enabled	Pluggable Protocol Handler	its: Asychronous Pluggable Protocol Handler	C:\Windows\System32\itss.dll	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:03	
+javascript	Enabled	Pluggable Protocol Handler	Microsoft HTML Javascript Pluggable Protocol	C:\Windows\System32\mshtml.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+LDAP	Enabled	Executable	URL:LDAP Protocol	"%ProgramFiles%\Windows Mail\wab.exe" "/ldap:%1"	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:02	
+local	Enabled	Pluggable Protocol Handler	file:, local: Asychronous Pluggable Protocol Handler	C:\Windows\System32\urlmon.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+mailto	Enabled	Pluggable Protocol Handler	Microsoft HTML Mailto Pluggable Protocol	C:\Windows\System32\mshtml.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+mailto	Enabled	Executable	Thunderbird URL	"C:\Program Files\Mozilla Thunderbird\thunderbird.exe" -osint -compose "%1"	Thunderbird	Mozilla Corporation	12/03/2023 13:02:20	
+mapi	Enabled	Executable					07/05/2022 05:28:02	
+mhtml	Enabled	Pluggable Protocol Handler	MHTML Asynchronous Pluggable Protocol Handler	C:\Windows\System32\inetcomm.dll	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:03	
+microsoft-edge	Enabled	Executable					19/02/2023 19:19:11	
+microsoft-edge-holographic	Enabled	Executable					19/02/2023 19:19:11	
+microsoft.windows.camera	Enabled	Executable	URL:microsoft.windows.camera				19/02/2023 19:19:11	
+microsoft.windows.camera.multipicker	Enabled	Executable	URL:microsoft.windows.camera.multipicker				19/02/2023 19:56:47	
+microsoft.windows.camera.picker	Enabled	Executable	URL:microsoft.windows.camera.picker				19/02/2023 19:19:11	
+microsoft.windows.photos.crop	Enabled	Executable	URL:microsoft.windows.photos.crop				19/02/2023 19:19:11	
+microsoft.windows.photos.picker	Enabled	Executable	URL:microsoft.windows.photos.picker				19/02/2023 19:19:11	
+microsoft.windows.photos.videoedit	Enabled	Executable	URL:microsoft.windows.photos.videoedit				19/02/2023 19:19:11	
+Microsoft.Workfolders	Enabled	Executable	Microsoft Workfolders	C:\Windows\System32\control.exe /name Microsoft.WorkFolders	Microsoft® Windows® Operating System	Microsoft Corporation	19/02/2023 19:17:41	
+microsoftmusic	Enabled	Executable	URL:microsoftmusic				19/02/2023 19:19:11	
+microsoftsolitairecollection	Enabled	Executable	URL:microsoftsolitairecollection				22/02/2023 14:25:36	
+microsoftvideo	Enabled	Executable	URL:microsoftvideo				19/02/2023 19:19:11	
+mid	Enabled	Executable	Thunderbird URL	"C:\Program Files\Mozilla Thunderbird\thunderbird.exe" "%1"	Thunderbird	Mozilla Corporation	12/03/2023 13:02:20	
+mk	Enabled	Pluggable Protocol Handler	mk: Asychronous Pluggable Protocol Handler	C:\Windows\System32\urlmon.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+mk	Enabled	Executable	URL:MK Protocol				07/05/2022 05:28:02	
+MMS	Enabled	Executable	URL:mms Protocol	"%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" "%L"	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 10:31:51	
+ms-aad-brokerplugin	Enabled	Executable	URL:ms-aad-brokerplugin				19/02/2023 19:19:11	
+ms-actioncenter	Enabled	Executable	URL:ms-actioncenter				19/02/2023 19:19:11	
+ms-appinstaller	Enabled	Executable	URL:ms-appinstaller				19/02/2023 19:19:11	
+ms-apprep	Enabled	Executable	URL:ms-apprep				19/02/2023 19:19:11	
+ms-availablenetworks	Enabled	Executable	URL:Available Networks Protocol	"%SystemRoot%\system32\LaunchWinApp.exe" "%1"	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:02	
+ms-calculator	Enabled	Executable	URL:ms-calculator				19/02/2023 19:19:11	
+ms-clock	Enabled	Executable	URL:ms-clock				19/02/2023 19:19:11	
+ms-contact-support	Enabled	Executable	URL:ms-contact-support				19/02/2023 19:19:11	
+ms-cortana2	Enabled	Executable	URL:ms-cortana2				19/02/2023 19:19:11	
+ms-cxh	Enabled	Executable	URL:ms-cxh				19/02/2023 19:19:11	
+ms-cxh-full	Enabled	Executable	CloudExperienceHost Launch Protocol				07/05/2022 05:28:02	
+ms-default-location	Enabled	Executable	URL:ms-default-location				19/02/2023 19:19:11	
+ms-device-enrollment	Enabled	Executable	URL:ms-device-enrollment				19/02/2023 19:19:11	
+ms-device-enrollment2	Enabled	Executable	URL:ms-device-enrollment2				19/02/2023 19:39:32	
+ms-drive-to	Enabled	Executable	URL:ms-drive-to				19/02/2023 19:19:11	
+ms-eyecontrolspeech	Enabled	Executable	URL:ms-eyecontrolspeech				19/02/2023 19:19:11	
+ms-family	Enabled	Executable	URL:ms-family				19/02/2023 19:56:33	
+ms-gamebar	Enabled	Executable	URL:ms-gamebar				22/02/2023 14:23:16	
+ms-gamebarservices	Enabled	Executable	URL:ms-gamebarservices				19/02/2023 19:19:11	
+ms-gamingoverlay	Enabled	Executable	URL:ms-gamingoverlay				19/02/2023 19:19:11	
+ms-get-started	Enabled	Executable	URL:ms-get-started				19/02/2023 19:19:11	
+ms-getoffice	Enabled	Executable	URL:ms-getoffice				19/02/2023 19:19:11	
+ms-holographicfirstrun	Enabled	Executable	URL:ms-holographicfirstrun				19/02/2023 19:19:11	
+ms-inputapp	Enabled	Executable	URL:ms-inputapp				19/02/2023 19:19:11	
+ms-insights	Enabled	Executable	URL:ms-insights				19/02/2023 19:19:11	
+ms-ipmessaging	Enabled	Executable	URL:ms-ipmessaging				19/02/2023 19:19:11	
+ms-its	Enabled	Pluggable Protocol Handler	ms-its: Asychronous Pluggable Protocol Handler	C:\Windows\System32\itss.dll	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:03	
+ms-lwh	Enabled	Executable	URL:ms-lwh				19/02/2023 19:39:32	
+ms-meetnow	Enabled	Executable	URL:ms-meetnow				19/02/2023 19:56:38	
+ms-meetnowflyout	Enabled	Executable	URL:ms-meetnowflyout				19/02/2023 19:19:11	
+ms-mmsys	Enabled	Executable		%SystemRoot%\System32\rundll32.exe %SystemRoot%\System32\shell32.dll,Control_RunDLL %SystemRoot%\System32\mmsys.cpl %1	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 05:28:02	
+ms-msdt	Enabled	Executable	URL:ms-msdt	"%SystemRoot%\system32\msdt.exe" %1	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 05:28:02	
+ms-msime-imepad	Enabled	Executable		C:\Windows\System32\IME\SHARED\IMEPADSV.EXE %1	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:02	
+ms-msime-imjpdct	Enabled	Executable		C:\Windows\System32\IME\IMEJP\IMJPDCT.EXE %1	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:02	
+ms-newsandinterests	Enabled	Executable	URL:ms-newsandinterests				19/02/2023 19:19:11	
+ms-officeapp	Enabled	Executable	URL:ms-officeapp				19/02/2023 19:19:11	
+ms-officecmd	Enabled	Executable	URL:ms-officecmd				19/02/2023 19:19:11	
+ms-oobenetwork	Enabled	Executable	URL:ms-oobenetwork				19/02/2023 19:19:11	
+ms-outlook	Enabled	Executable	URL:ms-outlook				08/03/2023 18:22:31	
+ms-paint	Enabled	Executable	URL:ms-paint				19/02/2023 19:19:11	
+ms-penworkspace	Enabled	Executable	URL:ms-penworkspace				19/02/2023 19:19:11	
+ms-people	Enabled	Executable	URL:ms-people				19/02/2023 19:19:11	
+ms-perception-simulation	Enabled	Executable	Url:Perception Simulation Protocol	%SystemRoot%\system32\PerceptionSimulation\PerceptionSimulationInput.exe %1	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 10:31:51	
+ms-phone	Enabled	Executable	URL:ms-phone				19/02/2023 19:19:11	
+ms-photos	Enabled	Executable	URL:ms-photos				19/02/2023 19:19:11	
+ms-playto-audio	Enabled	Executable	URL:ms-playto-audio				19/02/2023 19:40:58	
+ms-powerautomate	Enabled	Executable	URL:ms-powerautomate				19/02/2023 19:57:52	
+ms-powerautomatedesigner	Enabled	Executable	URL:ms-powerautomatedesigner				17/03/2023 17:38:27	
+ms-print-addprinter	Enabled	Executable	URL:ms-print-addprinter				19/02/2023 19:19:11	
+ms-print-printjobs	Enabled	Executable	URL:ms-print-printjobs				19/02/2023 19:19:11	
+ms-print-queue	Enabled	Executable	URL:ms-print-queue				19/02/2023 19:55:57	
+ms-quick-assist	Enabled	Executable	URL:ms-quick-assist				19/02/2023 19:56:32	
+ms-rdx-document	Enabled	Executable		%SystemRoot%\system32\rundll32.exe %SystemRoot%\system32\RDXService,OpenRDXDocument %1			07/05/2022 05:28:02	
+ms-retaildemo-launchbioenrollment	Enabled	Executable	URL:ms-retaildemo-launchbioenrollment				07/05/2022 05:28:02	
+ms-retaildemo-launchstart	Enabled	Executable	URL:ms-retaildemo-launchstart				07/05/2022 05:28:02	
+ms-screenclip	Enabled	Executable	URL:ms-screenclip				19/02/2023 19:19:11	
+ms-screensketch	Enabled	Executable	URL:ms-screensketch				19/02/2023 19:19:11	
+ms-search	Enabled	Executable	URL:ms-search				19/02/2023 19:19:11	
+ms-settings	Enabled	Executable	URL:ms-settings				07/05/2022 05:28:02	
+ms-settings-airplanemode	Enabled	Executable	URL:ms-settings-airplanemode				07/05/2022 05:28:02	
+ms-settings-bluetooth	Enabled	Executable	URL:ms-settings-bluetooth				07/05/2022 05:28:02	
+ms-settings-cellular	Enabled	Executable	URL:ms-settings-cellular				07/05/2022 05:28:02	
+ms-settings-connectabledevices	Enabled	Executable	URL:Devices Flow Connectable Devices Protocol	"%SystemRoot%\system32\LaunchWinApp.exe" "%1"	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:02	
+ms-settings-displays-topology	Enabled	Executable	URL:Devices Flow Display Topology Protocol	"%SystemRoot%\system32\LaunchWinApp.exe" "%1"	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:02	
+ms-settings-emailandaccounts	Enabled	Executable	URL:ms-settings-emailandaccounts				07/05/2022 05:28:02	
+ms-settings-language	Enabled	Executable	URL:ms-settings-language				07/05/2022 05:28:02	
+ms-settings-location	Enabled	Executable	URL:ms-settings-location				07/05/2022 05:28:02	
+ms-settings-lock	Enabled	Executable	URL:ms-settings-lock				07/05/2022 05:28:02	
+ms-settings-mobilehotspot	Enabled	Executable	URL:ms-settings-mobilehotspot				07/05/2022 05:28:02	
+ms-settings-notifications	Enabled	Executable	URL:ms-settings-notifications				07/05/2022 05:28:02	
+ms-settings-power	Enabled	Executable	URL:ms-settings-power				07/05/2022 05:28:02	
+ms-settings-privacy	Enabled	Executable	URL:ms-settings-privacy				07/05/2022 05:28:02	
+ms-settings-proximity	Enabled	Executable	URL:ms-settings-proximity				07/05/2022 05:28:02	
+ms-settings-screenrotation	Enabled	Executable	URL:ms-settings-screenrotation				07/05/2022 05:28:02	
+ms-settings-wifi	Enabled	Executable	URL:ms-settings-wifi				07/05/2022 05:28:02	
+ms-settings-workplace	Enabled	Executable	URL:ms-settings-workplace				07/05/2022 05:28:02	
+ms-stickereditor	Enabled	Executable	URL:ms-stickereditor				19/02/2023 19:39:32	
+ms-sttoverlay	Enabled	Executable	URL:ms-sttoverlay				19/02/2023 19:19:11	
+ms-taskswitcher	Enabled	Executable	URL:ms-taskswitcher				07/05/2022 05:28:02	
+ms-teams	Enabled	Executable	URL:ms-teams				19/02/2023 19:56:38	
+ms-to-do	Enabled	Executable	URL:ms-to-do				19/02/2023 19:57:51	
+ms-todo	Enabled	Executable	URL:ms-todo				19/02/2023 19:57:51	
+ms-unistore-email	Enabled	Executable	URL:ms-unistore-email				19/02/2023 19:19:11	
+ms-virtualtouchpad	Enabled	Executable	URL:Virtual Touchpad	"%SystemRoot%\system32\LaunchWinApp.exe" "%1"	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:02	
+ms-voip-call	Enabled	Executable	URL:ms-voip-call				19/02/2023 19:19:11	
+ms-voip-video	Enabled	Executable	URL:ms-voip-video				19/02/2023 19:19:11	
+ms-walk-to	Enabled	Executable	URL:ms-walk-to				19/02/2023 19:19:11	
+ms-wcrv	Enabled	Executable	URL:ms-wcrv				19/02/2023 19:19:11	
+ms-widgets	Enabled	Executable	URL:ms-widgets				19/02/2023 20:25:29	
+ms-windows-search	Enabled	Executable	URL:ms-windows-search				07/05/2022 05:28:02	
+ms-windows-store	Enabled	Executable	URL:ms-windows-store				19/02/2023 19:19:11	
+ms-windows-store-deskext	Enabled	Executable	URL:ms-windows-store-deskext				19/02/2023 19:39:43	
+ms-windows-store2	Enabled	Executable	URL:ms-windows-store2				19/02/2023 19:19:11	
+ms-wpc	Enabled	Executable	URL:ms-wpc				19/02/2023 19:19:11	
+ms-wpdrmv	Enabled	Executable	URL:ms-wpdrmv				19/02/2023 19:19:11	
+ms-wxh	Enabled	Executable	URL:ms-wxh				19/02/2023 19:39:32	
+ms-xbet-survey	Enabled	Executable	URL:ms-xbet-survey				19/02/2023 19:57:51	
+ms-xbl-3d8b930f	Enabled	Executable					19/02/2023 19:19:11	
+ms-xgpueject	Enabled	Executable	URL:ms-xgpueject				19/02/2023 19:19:11	
+msgamepass	Enabled	Executable	URL:msgamepass				19/02/2023 19:57:57	
+msgamingapp	Enabled	Executable	URL:msgamingapp				19/02/2023 19:57:57	
+msnews	Enabled	Executable	URL:msnews				19/02/2023 19:57:59	
+msnnews	Enabled	Executable	URL:msnnews				19/02/2023 19:57:59	
+msnweather	Enabled	Executable	URL:msnweather				19/02/2023 19:19:11	
+mswindowsmusic	Enabled	Executable					19/02/2023 19:19:11	
+mswindowsvideo	Enabled	Executable					19/02/2023 19:19:11	
+msxbox	Enabled	Executable	URL:msxbox				19/02/2023 19:57:57	
+netflix	Enabled	Executable	URL:netflix				19/02/2023 22:26:21	
+news	Enabled	Executable	Thunderbird (News) URL	"C:\Program Files\Mozilla Thunderbird\thunderbird.exe" -osint -mail "%1"	Thunderbird	Mozilla Corporation	12/03/2023 13:05:20	
+nh3-msi	Enabled	Executable	URL:nh3-msi				19/02/2023 19:56:32	
+nntp	Enabled	Executable	Thunderbird (News) URL	"C:\Program Files\Mozilla Thunderbird\thunderbird.exe" -osint -mail "%1"	Thunderbird	Mozilla Corporation	12/03/2023 13:05:20	
+onenote	Enabled	Executable	URL:onenote				19/02/2023 19:19:11	
+onenote-cmd	Enabled	Executable	URL:onenote-cmd				19/02/2023 19:19:11	
+outlookaccounts	Enabled	Executable	URL:outlookaccounts				19/02/2023 19:19:11	
+outlookcal	Enabled	Executable	URL:outlookcal				19/02/2023 19:19:11	
+outlookmail	Enabled	Executable	URL:outlookmail				19/02/2023 19:19:11	
+read	Enabled	Executable					19/02/2023 19:19:11	
+res	Enabled	Executable	URL:RES Protocol				07/05/2022 05:28:03	
+res	Enabled	Pluggable Protocol Handler	Microsoft HTML Resource Pluggable Protocol	C:\Windows\System32\mshtml.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+rlogin	Enabled	Executable	URL:RLogin Protocol	"C:\Windows\System32\rundll32.exe" "C:\Windows\System32\url.dll",TelnetProtocolHandler %l	Sistema operativo Microsoft® Windows®	Microsoft Corporation	19/02/2023 19:17:41	
+search	Enabled	Executable	Windows Search Protocol	%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 05:28:03	
+search-ms	Enabled	Executable	Windows Search Protocol	%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 05:28:03	
+skype	Enabled	Executable	URL:skype				19/02/2023 19:19:11	
+skypewin	Enabled	Executable	URL:skypewin				19/02/2023 19:19:11	
+snews	Enabled	Executable	Thunderbird (News) URL	"C:\Program Files\Mozilla Thunderbird\thunderbird.exe" -osint -mail "%1"	Thunderbird	Mozilla Corporation	12/03/2023 13:05:20	
+tbauth	Enabled	Pluggable Protocol Handler	Microsoft TBAuth Single-Sign On Protocol	C:\Windows\System32\tbauth.dll	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:03	
+tbauth	Enabled	Executable	URL:tbauth				07/05/2022 05:28:03	
+tel	Enabled	Executable	URL:tel				19/02/2023 19:19:11	
+telnet	Enabled	Executable	URL:Telnet Protocol	"C:\Windows\System32\rundll32.exe" "C:\Windows\System32\url.dll",TelnetProtocolHandler %l	Sistema operativo Microsoft® Windows®	Microsoft Corporation	19/02/2023 19:17:41	
+tn3270	Enabled	Executable	URL:TN3270 Protocol	"C:\Windows\System32\rundll32.exe" "C:\Windows\System32\url.dll",TelnetProtocolHandler %l	Sistema operativo Microsoft® Windows®	Microsoft Corporation	19/02/2023 19:17:41	
+tv	Enabled	Pluggable Protocol Handler	TV: Pluggable Protocol	C:\Windows\System32\msvidctl.dll	DirectShow	Microsoft Corporation	07/05/2022 05:28:03	
+vbscript	Enabled	Pluggable Protocol Handler	Microsoft HTML Javascript Pluggable Protocol	C:\Windows\System32\mshtml.dll	Internet Explorer	Microsoft Corporation	07/05/2022 05:28:03	
+vmrc	Enabled	Executable	URL:VMware VMRC Protocol	"C:\Program Files (x86)\VMware\VMware Player\vmplayer.exe" "%1"	VMware Workstation	VMware, Inc.	24/03/2023 11:34:30	
+vmware-rvm	Enabled	Executable	URL:VMware Restricted VM Protocol	"C:\Program Files (x86)\VMware\VMware Player\vmplayer.exe" "%1"	VMware Workstation	VMware, Inc.	24/03/2023 11:34:30	
+vnd.libreoffice.command	Enabled	Executable	URL:vnd.libreoffice.command Protocol	"C:\Program Files\LibreOffice\program\soffice.exe" "%1"	LibreOffice	The Document Foundation	05/03/2023 13:53:53	
+vscode	Enabled	Executable	URL:vscode	"C:\Users\mikes\AppData\Local\Programs\Microsoft VS Code\Code.exe" "--open-url"  "--" "%1"	Visual Studio Code	Microsoft Corporatio	20/02/2023 10:53:42	
+webcal	Enabled	Executable	URL:webcal				08/03/2023 18:22:31	
+webcals	Enabled	Executable	URL:webcals				08/03/2023 18:22:31	
+whatsapp	Enabled	Executable	URL:whatsapp				16/03/2023 18:58:10	
+windows-feedback	Enabled	Executable	URL:windows-feedback				19/02/2023 19:19:11	
+windows.tbauth	Enabled	Pluggable Protocol Handler	Microsoft TBAuth Single-Sign On Protocol	C:\Windows\System32\tbauth.dll	Microsoft® Windows® Operating System	Microsoft Corporation	07/05/2022 05:28:03	
+windows.tbauth	Enabled	Executable	URL:windows.tbauth				07/05/2022 05:28:03	
+windowsdefender	Enabled	Executable	URL:windowsdefender				19/02/2023 19:19:11	
+WMP11.AssocProtocol.DLNA-PLAYSINGLE	Enabled	Executable	URL:dlna-playsingle Protocol	"%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" "%L"	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 10:31:51	
+WMP11.AssocProtocol.MMS	Enabled	Executable	URL:mms Protocol	"%ProgramFiles(x86)%\Windows Media Player\wmplayer.exe" "%L"	Sistema operativo Microsoft® Windows®	Microsoft Corporation	07/05/2022 10:31:51	
+xbls	Enabled	Executable	URL:xbls				19/02/2023 19:19:11	
+xbox	Enabled	Executable	URL:xbox				19/02/2023 19:19:11	
+xbox-arena	Enabled	Executable	URL:xbox-arena				19/02/2023 19:19:11	
+xbox-captures	Enabled	Executable	URL:xbox-captures				19/02/2023 19:19:11	
+xbox-friendfinder	Enabled	Executable	URL:xbox-friendfinder				19/02/2023 19:19:11	
+xbox-gamehub	Enabled	Executable	URL:xbox-gamehub				19/02/2023 19:19:11	
+xbox-lfg	Enabled	Executable	URL:xbox-lfg				19/02/2023 19:19:11	
+xbox-network	Enabled	Executable	URL:xbox-network				19/02/2023 19:19:11	
+xbox-profile	Enabled	Executable	URL:xbox-profile				19/02/2023 19:19:11	
+xbox-settings	Enabled	Executable	URL:xbox-settings				19/02/2023 19:19:11	
+xbox-store	Enabled	Executable	URL:xbox-store				19/02/2023 19:19:11	
+xbox-tcui	Enabled	Executable	URL:xbox-tcui				19/02/2023 19:19:11	
+xboxgames	Enabled	Executable	URL:xboxgames				19/02/2023 19:19:11	
+xboxliveapp-1297287741	Enabled	Executable	URL:xboxliveapp-1297287741				19/02/2023 19:19:11	
+xboxmusic	Enabled	Executable	URL:xboxmusic				19/02/2023 19:19:11	
+zune	Enabled	Executable	URL:zune				19/02/2023 19:19:11	
