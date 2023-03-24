@@ -7,6 +7,7 @@ from datetime import datetime
 import platform
 import sqlite3
 from lxml import etree as et
+import csv
 
 
 def trace():
@@ -31,13 +32,19 @@ def db():
 
 
 def csv():
-    KeyError
+    with open('../flussi/proto.csv', 'r', encoding = "utf-8") as file:
+        reader = csv.reader(file)
+        for row in reader:
+                product=row[0]
+                name=row[5]
+                out += ";\n"
+                utility.save("../flussi/usbd.csv", out)
 
 
 if __name__ == "__main__":
     DATA = str(datetime.now())
-    f = '../flussi/evt.xml'
-    fog = open("../flussi/evt.csv", "a", encoding = "latin-1")
+    f = '../flussi/proto.xml'
+    csv = open("../flussi/proto.csv", "a", encoding = "latin-1")
     fogg = open("../log/trace.log", "a", encoding = "latin-1")
     trace()
     choice = int(input("Scegli come salvare il tutto 1(xml)  2(database)  3(csv)  4(salvare su tutti e tre i formati): "))
