@@ -1,1 +1,1 @@
-start URLProtocolView.exe /stab ../flussi/output.tab
+start URLProtocolView.exe /stab ../flussi/input.csv

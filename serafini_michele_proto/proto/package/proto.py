@@ -5,64 +5,45 @@ usbd.py
 import sys
 from datetime import datetime
 import platform
-import sqlite3
-from lxml import etree as et
-import csv
-import socket 
+import csv 
 
 
 def trace():
     """
     creare file trace.log con data, piattaforma e nome della macchina
     """
-    fogg.write(DATA + " " +  sys.platform + " " + str(platform.node()) + "\n")
+    tracee.write(DATA + " " +  sys.platform + " " + str(platform.node()) + "\n")
 
 
-def xml(f):
-    """
-    salvare le info dei processi sul file XML
-    """
-   
-
-
-def db():
-    """
-    salvare le info dei processi su un database
-    """
-  
-
-
-def csv():
-    with open('../flussi/proto.csv', 'r', encoding = "utf-8") as file:
-        reader = csv.reader(file)
-        writer = csv.writer(file)
+def f_csv():
+    with open("../flussi/input.csv", "r") as file:
+        reader = csv.reader(file, delimiter="\t")
         for row in reader:
-                product=row[0]
-                name=row[5]
-                out += ";\n"
-                utility.save("../flussi/usbd.csv", out)
-
+            column1 = row[0]
+            column5 = row[5]
+            csvv.write(column1 + ";" + column5 + "\n")
 
 if __name__ == "__main__":
     DATA = str(datetime.now())
     f = '../flussi/proto.xml'
-    csv = open("../flussi/proto.csv", "a", encoding = "latin-1")
-    fogg = open("../log/trace.log", "a", encoding = "latin-1")
+    csvv = open("../flussi/proto.csv", "a", encoding = "latin-1")
+    tracee = open("../log/trace.log", "a", encoding = "latin-1")
     trace()
-    choice = int(input("Scegli come salvare il tutto 1(xml)  2(database)  3(csv)  4(salvare su tutti e tre i formati): "))
-    if choice == 1:
-     xml(f)
+    f_csv()
+    #choice = int(input("Scegli come salvare il tutto 1(xml)  2(database)  3(csv)  4(salvare su tutti e tre i formati): "))
+    #if choice == 1:
+    # xml(f)
 
-    elif choice == 2:
-        db()
-    elif choice == 3:
-        csv()
-    elif choice == 4:
-        xml(f)
-        db()
-        csv()
-    else:
-        print("Scelta non valida")
+    #elif choice == 2:
+    #    db()
+    #elif choice == 3:
+    #    csv()
+    #elif choice == 4:
+    #    xml(f)
+    #    db()
+    #    csv()
+    #else:
+     #   print("Scelta non valida")
 
-    fog.close()
-    fogg.close()
+    csvv.close()
+    tracee.close()
