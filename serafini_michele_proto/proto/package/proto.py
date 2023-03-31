@@ -8,6 +8,7 @@ import platform
 import sqlite3
 from lxml import etree as et
 import csv
+import socket 
 
 
 def trace():
@@ -34,6 +35,7 @@ def db():
 def csv():
     with open('../flussi/proto.csv', 'r', encoding = "utf-8") as file:
         reader = csv.reader(file)
+        writer = csv.writer(file)
         for row in reader:
                 product=row[0]
                 name=row[5]
