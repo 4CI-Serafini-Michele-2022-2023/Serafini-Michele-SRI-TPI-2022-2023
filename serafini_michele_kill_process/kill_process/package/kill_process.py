@@ -7,7 +7,6 @@ from datetime import datetime
 import platform
 import psutil
 import os
-import xml.etree.ElementTree as et
 
 
 def trace():
