@@ -1,5 +1,5 @@
 """
-usbd.py
+kill_process.py
 """
 
 import sys
