@@ -24,6 +24,7 @@ def csv():
     current_user = os.getlogin()
     print(current_user)
     for i in psutil.process_iter():
+        print(i)
         sium = i.username().split("\\")
         if sium[1] == current_user:
             
