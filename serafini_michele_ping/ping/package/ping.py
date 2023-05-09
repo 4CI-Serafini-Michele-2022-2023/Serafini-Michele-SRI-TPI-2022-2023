@@ -1,8 +1,17 @@
 import os
 import subprocess
+from pandas import read_csv
 
+def pingw():
+
+
+
+def pingl():
+
+    
 if __name__=="__main__":
-    fd = os.popen("ping 8.8.8.8 >> provaa.txt",'w')
-    with open('output.txt', 'w') as output:
-        process = subprocess.Popen('ping 127.0.0.1', stdout=output)
-        process.communicate()
+    file = read_csv("input.csv")
+    if platform == "win32":
+        pingw()
+    else:
+        pingl()
