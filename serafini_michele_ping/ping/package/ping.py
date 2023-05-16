@@ -33,7 +33,7 @@ def ping_hosts(hosts):
         thread.join()
 
 def main():
-    csv_file = 'input.csv'  # Specifica il percorso del tuo file CSV
+    csv_file = 'input.csv'
     hosts = []
 
     with open(csv_file, 'r') as file:
