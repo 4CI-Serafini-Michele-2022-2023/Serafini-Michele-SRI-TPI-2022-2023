@@ -6,6 +6,8 @@ import platform
 import subprocess
 import threading
 from icecream import ic
+from datetime import datetime
+import sys
 
 def ping_host(host):
     """
@@ -56,5 +58,15 @@ def main():
 
     thread(hosts)
 
+def trace():
+    """
+    creare file trace.log con data, piattaforma e nome della macchina
+    """
+    log.write(DATA + " " +  sys.platform + " " + str(platform.node()) + "\n")
+
 if __name__ == '__main__':
     main()
+    DATA = str(datetime.now())
+    log = open("../log/trace.log", "a", encoding = "latin-1")
+    trace()
+    log.close()
