@@ -27,6 +27,8 @@ def main(interface, new_mac):
     else:
         ic("Unsupported operating system.")
 
+main("eth0", "00:11:22:33:44:55")
+
 def trace():
     """
     creare file trace.log con data, piattaforma e nome della macchina
