@@ -4,10 +4,10 @@ ping.py
 import csv
 import platform
 import subprocess
-from icecream import ic
 import threading
 from datetime import datetime
 import sys
+from icecream import ic
 
 def ping_host(host):
     """
@@ -30,7 +30,7 @@ def ping_host(host):
     else:
         ic(host + " " + "non è raggiungibile")
 
-def thread(hosts):
+def threadd(hosts):
     """
     Questa funzione crea un thread per ogni host su cui eseguire il ping
     """
@@ -53,7 +53,7 @@ def main():
             if len(row) > 0:
                 hosts.append(row[0])
 
-    thread(hosts)
+    threadd(hosts)
 
 def trace():
     """
