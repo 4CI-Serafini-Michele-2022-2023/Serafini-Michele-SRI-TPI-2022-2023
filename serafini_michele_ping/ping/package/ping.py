@@ -4,8 +4,8 @@ ping.py
 import csv
 import platform
 import subprocess
-import threading
 from icecream import ic
+import threading
 from datetime import datetime
 import sys
 
@@ -18,17 +18,17 @@ def ping_host(host):
     elif platform.system() == 'Linux':
         command = ['ping', '-c', '1', host]
     else:
-        ic("Sistema operativo non supportato per l'host" + host)
+        ic("Sistema operativo non supportato per l'host" + " " + host)
         return
 
     result = subprocess.run(command, capture_output=True, check=True)
     output = result.stdout.decode('utf-8')
     if platform.system() == 'Windows' and "Risposta" in output:
-        ic(host +"è raggiungibile")
+        ic(host + " " + "è raggiungibile")
     elif platform.system() == 'Linux' and "1 received" in output:
-        ic(host + "è raggiungibile")
+        ic(host + " " + "è raggiungibile")
     else:
-        ic(host + "non è raggiungibile")
+        ic(host + " " + "non è raggiungibile")
 
 def thread(hosts):
     """
@@ -39,9 +39,6 @@ def thread(hosts):
         thread = threading.Thread(target=ping_host, args=(host,))
         thread.start()
         threads.append(thread)
-
-    for thread in threads:
-        thread.join()
 
 def main():
     """
@@ -65,8 +62,8 @@ def trace():
     log.write(DATA + " " +  sys.platform + " " + str(platform.node()) + "\n")
 
 if __name__ == '__main__':
-    main()
     DATA = str(datetime.now())
+    main()
     log = open("../log/trace.log", "a", encoding = "latin-1")
     trace()
     log.close()
