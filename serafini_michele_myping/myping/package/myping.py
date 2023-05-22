@@ -44,7 +44,7 @@ def main():
     """
     Questa funzione legge tutte le righe della prima colonna del file di input
     """
-    csv_file = 'sistemi.csv'
+    csv_file = 'input.csv'
     hosts = []
 
     with open(csv_file, 'r', encoding="utf-8") as file:
